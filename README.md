@@ -16,7 +16,7 @@
 | 阶段 | 状态 | 产物 |
 |---|---|---|
 | 01 城市清单 | ✅ 完成 | `cities_1000.csv`（1000 座 / 166 国） |
-| 02 抓取 POI | 🔄 218 / 1000 座 | `data/pois/*.json`（已裁到 8 类标签，81 MB） |
+| 02 抓取 POI | 🔄 885 / 1000 座 | `data/pois/*.json`（已裁到 8 类标签，162 MB / 352 万 POI） |
 | 03 表示与矩阵 | ⬜ 待写 | — |
 | 04 检索 | ⬜ 待写 | — |
 | 05 增强与多跳 | ⬜ 待写 | — |
@@ -50,7 +50,7 @@ data/pois/*.json ──(03 待写)──> data/counts.csv ──> TF-IDF 矩阵
 - 想增删城市直接改这个 CSV，再重跑 `fetch_pois.py` 即可。
 - 抓取限速 2 秒/次；但真正慢的是服务端：单城应答中位 48 秒、1–20 MB。
 - 落盘只留 8 个白名单标签（`tourism/historic/amenity/natural/leisure/shop/sport/aerialway`），
-  实测砍掉约 95% 的无用字段（name/addr:*/website/phone/opening_hours…），218 城共 81 MB，
-  按此推算 1000 城约 370 MB。历史胖文件用 `python3 02_抓取POI/trim_pois.py --apply` 瘦身。
+  实测砍掉约 95% 的无用字段（name/addr:*/website/phone/opening_hours…），885 城共 162 MB，
+  按此推算 1000 城约 183 MB。历史胖文件用 `python3 02_抓取POI/trim_pois.py --apply` 瘦身。
 - `fetch_pois.py` 内置多镜像轮换（overpass-api.de / kumi / mail.ru / osm.ch），
   开跑前先探活；镜像连不上会冷却重试，失败的城市放回队尾，连续 30 分钟一无所获才停（已抓的照样跳过）。

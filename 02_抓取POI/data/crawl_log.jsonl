@@ -456,3 +456,1287 @@
 {"ts": "2026-11-11 09:51:21", "city": "Karachi", "id": "1174872", "status": 0, "error": "overpass-api.de: URLError"}
 {"ts": "2026-11-11 09:53:42", "city": "Delhi", "id": "1273294", "status": 200, "endpoint": "maps.mail.ru", "bytes": 1967554, "saved": 578859, "pois": 12402, "sec": 53.4}
 {"ts": "2026-11-11 09:54:14", "city": "Lagos", "id": "2332459", "status": 200, "endpoint": "maps.mail.ru", "bytes": 291407, "saved": 53494, "pois": 1054, "sec": 30.1}
+{"ts": "2026-11-11 09:59:47", "city": "Hefei", "id": "1808722", "status": 0, "error": "overpass.kumi.systems: HTTP 504"}
+{"ts": "2026-11-11 10:02:43", "city": "Kabul", "id": "1138958", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 10:02:46", "city": "Bengaluru", "id": "1277333", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-11 10:06:09", "city": "Bamako", "id": "2460596", "status": 0, "error": "overpass.kumi.systems: HTTP 504"}
+{"ts": "2026-11-11 10:07:11", "city": "Riyadh", "id": "108410", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-11 10:07:15", "city": "Addis Ababa", "id": "344979", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-11 10:07:18", "city": "Ankara", "id": "323786", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-11 10:07:21", "city": "Hyderabad", "id": "1269843", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-11 10:08:41", "city": "Pyongyang", "id": "1871859", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-11 10:12:09", "city": "Abidjan", "id": "2293538", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 10:12:36", "city": "Caracas", "id": "3646738", "status": 200, "endpoint": "maps.mail.ru", "bytes": 1044563, "saved": 147502, "pois": 3150, "sec": 24.6}
+{"ts": "2026-11-11 10:13:44", "city": "Kyiv", "id": "703448", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-11 10:14:11", "city": "Luanda", "id": "2240449", "status": 200, "endpoint": "maps.mail.ru", "bytes": 307669, "saved": 73604, "pois": 1554, "sec": 25.2}
+{"ts": "2026-11-11 10:17:25", "city": "Dar es Salaam", "id": "160263", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 10:17:30", "city": "Abuja", "id": "2352778", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-11 10:22:58", "city": "Saint Petersburg", "id": "498817", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 10:23:27", "city": "Dakar", "id": "2253354", "status": 200, "endpoint": "maps.mail.ru", "bytes": 443922, "saved": 144369, "pois": 2955, "sec": 27.1}
+{"ts": "2026-11-11 10:24:50", "city": "Mogadishu", "id": "53654", "status": 200, "endpoint": "maps.mail.ru", "bytes": 48062, "saved": 13639, "pois": 279, "sec": 23.5}
+{"ts": "2026-11-11 10:29:04", "city": "Kano", "id": "2335204", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 10:29:57", "city": "Ouagadougou", "id": "2357048", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-11 10:30:00", "city": "Peshawar", "id": "1168197", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-11 10:32:31", "city": "Algiers", "id": "2507480", "status": 200, "endpoint": "overpass.kumi.systems", "bytes": 748252, "saved": 192831, "pois": 4055, "sec": 117.4}
+{"ts": "2026-11-11 10:34:34", "city": "Baku", "id": "587084", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 10:36:33", "city": "Chennai", "id": "1264527", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-11 10:40:36", "city": "Kolkata", "id": "1275004", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 10:41:17", "city": "Lusaka", "id": "909137", "status": 200, "endpoint": "maps.mail.ru", "bytes": 566864, "saved": 100683, "pois": 2048, "sec": 33.9}
+{"ts": "2026-11-11 10:41:43", "city": "Santo Domingo", "id": "3492908", "status": 200, "endpoint": "maps.mail.ru", "bytes": 763936, "saved": 196919, "pois": 4154, "sec": 24.3}
+{"ts": "2026-11-11 10:42:15", "city": "Lome", "id": "2365267", "status": 200, "endpoint": "maps.mail.ru", "bytes": 446572, "saved": 145848, "pois": 3071, "sec": 26.1}
+{"ts": "2026-11-11 10:42:40", "city": "Giza", "id": "360995", "status": 200, "endpoint": "maps.mail.ru", "bytes": 1679417, "saved": 536911, "pois": 11566, "sec": 22.4}
+{"ts": "2026-11-11 10:43:00", "city": "Ahmedabad", "id": "1279233", "status": 200, "endpoint": "maps.mail.ru", "bytes": 218129, "saved": 56138, "pois": 1177, "sec": 17.9}
+{"ts": "2026-11-11 10:46:06", "city": "Pretoria", "id": "964137", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 10:46:34", "city": "Brazzaville", "id": "2260535", "status": 200, "endpoint": "maps.mail.ru", "bytes": 311158, "saved": 79920, "pois": 1624, "sec": 26.6}
+{"ts": "2026-11-11 10:47:09", "city": "Tashkent", "id": "1512569", "status": 200, "endpoint": "maps.mail.ru", "bytes": 984159, "saved": 200986, "pois": 4218, "sec": 33.0}
+{"ts": "2026-11-11 10:48:13", "city": "Khartoum", "id": "379252", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-11 10:50:18", "city": "Accra", "id": "2306104", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 10:50:21", "city": "Chattogram", "id": "1205733", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-11 10:50:24", "city": "Sanaa", "id": "71137", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-11 10:53:48", "city": "Conakry", "id": "2422465", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 10:54:22", "city": "Beirut", "id": "276781", "status": 200, "endpoint": "maps.mail.ru", "bytes": 632199, "saved": 145729, "pois": 3054, "sec": 32.2}
+{"ts": "2026-11-11 10:55:00", "city": "Yokohama", "id": "1848354", "status": 200, "endpoint": "maps.mail.ru", "bytes": 3208498, "saved": 835293, "pois": 17435, "sec": 31.5}
+{"ts": "2026-11-11 10:55:16", "city": "Ibadan", "id": "2339354", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-11 10:57:21", "city": "Minsk", "id": "625144", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 10:57:25", "city": "Kampala", "id": "232422", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-11 11:00:52", "city": "Manila", "id": "1701668", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 11:02:05", "city": "Damascus", "id": "170654", "status": 200, "endpoint": "maps.mail.ru", "bytes": 477664, "saved": 138128, "pois": 2821, "sec": 15.4}
+{"ts": "2026-11-11 11:02:30", "city": "Jeddah", "id": "105343", "status": 200, "endpoint": "maps.mail.ru", "bytes": 358468, "saved": 93869, "pois": 1929, "sec": 22.5}
+{"ts": "2026-11-11 11:04:25", "city": "Bursa", "id": "750269", "status": 200, "endpoint": "overpass.kumi.systems", "bytes": 356898, "saved": 101151, "pois": 2103, "sec": 99.7}
+{"ts": "2026-11-11 11:04:50", "city": "Astana", "id": "1526273", "status": 200, "endpoint": "maps.mail.ru", "bytes": 368684, "saved": 76840, "pois": 1644, "sec": 23.1}
+{"ts": "2026-11-11 11:10:03", "city": "Harare", "id": "890299", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 11:10:30", "city": "Monrovia", "id": "2274895", "status": 200, "endpoint": "maps.mail.ru", "bytes": 85735, "saved": 18803, "pois": 392, "sec": 24.7}
+{"ts": "2026-11-11 11:11:01", "city": "Surat", "id": "1255364", "status": 200, "endpoint": "maps.mail.ru", "bytes": 62257, "saved": 13340, "pois": 279, "sec": 29.0}
+{"ts": "2026-11-11 11:11:49", "city": "Jaipur", "id": "1269515", "status": 200, "endpoint": "maps.mail.ru", "bytes": 282506, "saved": 77561, "pois": 1639, "sec": 45.9}
+{"ts": "2026-11-11 11:14:06", "city": "Asuncion", "id": "3439389", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 11:14:10", "city": "Kuala Lumpur", "id": "1735161", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-11 11:17:37", "city": "Kathmandu", "id": "1283240", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 11:18:30", "city": "Belo Horizonte", "id": "3470127", "status": 200, "endpoint": "overpass-api.de", "bytes": 700308, "saved": 172264, "pois": 3650, "sec": 50.5}
+{"ts": "2026-11-11 11:20:46", "city": "N'Djamena", "id": "2427123", "status": 0, "error": "overpass-api.de: HTTP 502"}
+{"ts": "2026-11-11 11:21:15", "city": "Antananarivo", "id": "1070940", "status": 200, "endpoint": "maps.mail.ru", "bytes": 376335, "saved": 124793, "pois": 2557, "sec": 26.6}
+{"ts": "2026-11-11 11:23:38", "city": "New Taipei City", "id": "12908892", "status": 200, "endpoint": "overpass-api.de", "bytes": 9176363, "saved": 1624705, "pois": 33241, "sec": 128.2}
+{"ts": "2026-11-11 11:25:08", "city": "Niamey", "id": "2440485", "status": 200, "endpoint": "overpass-api.de", "bytes": 166023, "saved": 56811, "pois": 1119, "sec": 37.8}
+{"ts": "2026-11-11 11:25:51", "city": "Tripoli", "id": "2210247", "status": 200, "endpoint": "overpass-api.de", "bytes": 538119, "saved": 138281, "pois": 2870, "sec": 41.5}
+{"ts": "2026-11-11 11:26:35", "city": "Yaounde", "id": "2220957", "status": 200, "endpoint": "overpass-api.de", "bytes": 591255, "saved": 205183, "pois": 4425, "sec": 40.2}
+{"ts": "2026-11-11 11:27:27", "city": "Kumasi", "id": "2298890", "status": 200, "endpoint": "overpass-api.de", "bytes": 149822, "saved": 40760, "pois": 815, "sec": 49.4}
+{"ts": "2026-11-11 11:28:18", "city": "Montevideo", "id": "3441575", "status": 200, "endpoint": "overpass-api.de", "bytes": 643654, "saved": 116556, "pois": 2459, "sec": 48.1}
+{"ts": "2026-11-11 11:29:01", "city": "Faisalabad", "id": "1179400", "status": 200, "endpoint": "overpass-api.de", "bytes": 246089, "saved": 40457, "pois": 850, "sec": 40.0}
+{"ts": "2026-11-11 11:29:35", "city": "Bandung", "id": "1650357", "status": 200, "endpoint": "maps.mail.ru", "bytes": 927478, "saved": 237333, "pois": 4883, "sec": 28.7}
+{"ts": "2026-11-11 11:31:16", "city": "Maputo", "id": "1040652", "status": 200, "endpoint": "maps.mail.ru", "bytes": 373170, "saved": 81729, "pois": 1726, "sec": 32.3}
+{"ts": "2026-11-11 11:31:47", "city": "Medan", "id": "1214520", "status": 200, "endpoint": "maps.mail.ru", "bytes": 426225, "saved": 116622, "pois": 2268, "sec": 29.1}
+{"ts": "2026-11-11 11:32:44", "city": "Lucknow", "id": "1264733", "status": 200, "endpoint": "overpass-api.de", "bytes": 260637, "saved": 97451, "pois": 2174, "sec": 41.9}
+{"ts": "2026-11-11 11:33:38", "city": "Port-au-Prince", "id": "3718426", "status": 200, "endpoint": "overpass-api.de", "bytes": 490058, "saved": 101403, "pois": 2067, "sec": 49.9}
+{"ts": "2026-11-11 11:34:27", "city": "Fortaleza", "id": "3399415", "status": 200, "endpoint": "overpass-api.de", "bytes": 982578, "saved": 178042, "pois": 3738, "sec": 45.8}
+{"ts": "2026-11-11 11:35:10", "city": "Cali", "id": "3687925", "status": 200, "endpoint": "overpass-api.de", "bytes": 351376, "saved": 95524, "pois": 2045, "sec": 40.8}
+{"ts": "2026-11-11 11:35:58", "city": "Nouakchott", "id": "2377450", "status": 200, "endpoint": "overpass-api.de", "bytes": 201895, "saved": 65963, "pois": 1323, "sec": 45.6}
+{"ts": "2026-11-11 11:36:49", "city": "Daegu", "id": "1835329", "status": 200, "endpoint": "overpass-api.de", "bytes": 643161, "saved": 172414, "pois": 3611, "sec": 48.9}
+{"ts": "2026-11-11 11:38:33", "city": "Mashhad", "id": "124665", "status": 200, "endpoint": "overpass-api.de", "bytes": 503360, "saved": 140604, "pois": 3036, "sec": 34.9}
+{"ts": "2026-11-11 11:40:11", "city": "Yerevan", "id": "616052", "status": 200, "endpoint": "overpass-api.de", "bytes": 1267250, "saved": 218843, "pois": 4610, "sec": 43.6}
+{"ts": "2026-11-11 11:45:11", "city": "Kigali", "id": "202061", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 11:46:51", "city": "Rawalpindi", "id": "1166993", "status": 200, "endpoint": "maps.mail.ru", "bytes": 731168, "saved": 143294, "pois": 2939, "sec": 39.9}
+{"ts": "2026-11-11 11:47:18", "city": "Lilongwe", "id": "927967", "status": 200, "endpoint": "maps.mail.ru", "bytes": 69340, "saved": 21149, "pois": 435, "sec": 25.1}
+{"ts": "2026-11-11 11:48:46", "city": "Gaziantep", "id": "314830", "status": 200, "endpoint": "maps.mail.ru", "bytes": 202590, "saved": 61060, "pois": 1276, "sec": 26.7}
+{"ts": "2026-11-11 11:50:47", "city": "Lubumbashi", "id": "922704", "status": 200, "endpoint": "overpass-api.de", "bytes": 59530, "saved": 18667, "pois": 365, "sec": 49.7}
+{"ts": "2026-11-11 11:51:32", "city": "Port Harcourt", "id": "2324774", "status": 200, "endpoint": "overpass-api.de", "bytes": 94108, "saved": 26644, "pois": 530, "sec": 41.8}
+{"ts": "2026-11-11 11:52:25", "city": "Cordoba", "id": "3860259", "status": 200, "endpoint": "overpass-api.de", "bytes": 403933, "saved": 127473, "pois": 2797, "sec": 51.6}
+{"ts": "2026-11-11 11:53:09", "city": "Mbuji-Mayi", "id": "209228", "status": 200, "endpoint": "overpass-api.de", "bytes": 10139, "saved": 3388, "pois": 69, "sec": 41.5}
+{"ts": "2026-11-11 11:54:42", "city": "Tbilisi", "id": "611717", "status": 200, "endpoint": "overpass-api.de", "bytes": 2877834, "saved": 436448, "pois": 9218, "sec": 90.6}
+{"ts": "2026-11-11 11:55:29", "city": "Aleppo", "id": "170063", "status": 200, "endpoint": "overpass-api.de", "bytes": 292249, "saved": 90075, "pois": 1811, "sec": 39.5}
+{"ts": "2026-11-11 11:56:43", "city": "Pune", "id": "1259229", "status": 200, "endpoint": "overpass-api.de", "bytes": 874470, "saved": 185775, "pois": 3868, "sec": 59.4}
+{"ts": "2026-11-11 11:58:20", "city": "Ashgabat", "id": "162183", "status": 200, "endpoint": "overpass-api.de", "bytes": 297844, "saved": 56009, "pois": 1175, "sec": 37.2}
+{"ts": "2026-11-11 11:59:38", "city": "Quezon City", "id": "1692192", "status": 200, "endpoint": "overpass-api.de", "bytes": 3774549, "saved": 758305, "pois": 15714, "sec": 75.4}
+{"ts": "2026-11-11 12:00:39", "city": "Guatemala City", "id": "3598132", "status": 200, "endpoint": "overpass-api.de", "bytes": 510435, "saved": 139795, "pois": 2982, "sec": 59.8}
+{"ts": "2026-11-11 12:02:53", "city": "Almaty", "id": "1526384", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 12:04:18", "city": "Curitiba", "id": "3464975", "status": 200, "endpoint": "overpass-api.de", "bytes": 851267, "saved": 193245, "pois": 4126, "sec": 70.6}
+{"ts": "2026-11-11 12:04:49", "city": "Managua", "id": "3617763", "status": 200, "endpoint": "maps.mail.ru", "bytes": 428948, "saved": 116360, "pois": 2451, "sec": 29.3}
+{"ts": "2026-11-11 12:05:20", "city": "Taichung", "id": "1668399", "status": 200, "endpoint": "maps.mail.ru", "bytes": 2653875, "saved": 477887, "pois": 9776, "sec": 29.1}
+{"ts": "2026-11-11 12:05:44", "city": "Kanpur", "id": "1267995", "status": 200, "endpoint": "maps.mail.ru", "bytes": 57466, "saved": 14789, "pois": 312, "sec": 21.8}
+{"ts": "2026-11-11 12:06:13", "city": "Kingston", "id": "3489854", "status": 200, "endpoint": "maps.mail.ru", "bytes": 191954, "saved": 46079, "pois": 945, "sec": 27.0}
+{"ts": "2026-11-11 12:07:31", "city": "Kakamega", "id": "195272", "status": 200, "endpoint": "maps.mail.ru", "bytes": 34948, "saved": 12010, "pois": 239, "sec": 22.5}
+{"ts": "2026-11-11 12:08:03", "city": "Nay Pyi Taw", "id": "6611854", "status": 200, "endpoint": "maps.mail.ru", "bytes": 111975, "saved": 33372, "pois": 665, "sec": 26.0}
+{"ts": "2026-11-11 12:08:38", "city": "Kaduna", "id": "2335727", "status": 200, "endpoint": "maps.mail.ru", "bytes": 19892, "saved": 5913, "pois": 122, "sec": 32.9}
+{"ts": "2026-11-11 12:10:35", "city": "Davao", "id": "1715348", "status": 200, "endpoint": "overpass-api.de", "bytes": 690869, "saved": 141407, "pois": 2921, "sec": 46.9}
+{"ts": "2026-11-11 12:11:28", "city": "Diyarbakir", "id": "316541", "status": 200, "endpoint": "overpass-api.de", "bytes": 171434, "saved": 49926, "pois": 1047, "sec": 46.7}
+{"ts": "2026-11-11 12:12:15", "city": "Santa Cruz de la Sierra", "id": "3904906", "status": 200, "endpoint": "overpass-api.de", "bytes": 683812, "saved": 164602, "pois": 3508, "sec": 44.8}
+{"ts": "2026-11-11 12:13:21", "city": "Brooklyn", "id": "5110302", "status": 200, "endpoint": "overpass-api.de", "bytes": 8706400, "saved": 1423852, "pois": 29704, "sec": 64.0}
+{"ts": "2026-11-11 12:14:13", "city": "Adana", "id": "325363", "status": 200, "endpoint": "overpass-api.de", "bytes": 280675, "saved": 66310, "pois": 1407, "sec": 49.9}
+{"ts": "2026-11-11 12:14:49", "city": "Palembang", "id": "1633070", "status": 200, "endpoint": "overpass-api.de", "bytes": 192869, "saved": 55866, "pois": 1093, "sec": 33.5}
+{"ts": "2026-11-11 12:16:44", "city": "Sharjah", "id": "292672", "status": 200, "endpoint": "overpass-api.de", "bytes": 1542652, "saved": 377701, "pois": 7946, "sec": 46.3}
+{"ts": "2026-11-11 12:17:11", "city": "Bishkek", "id": "1528675", "status": 200, "endpoint": "maps.mail.ru", "bytes": 557608, "saved": 113648, "pois": 2444, "sec": 25.4}
+{"ts": "2026-11-11 12:17:44", "city": "Bhopal", "id": "1275841", "status": 200, "endpoint": "maps.mail.ru", "bytes": 102701, "saved": 34899, "pois": 745, "sec": 30.1}
+{"ts": "2026-11-11 12:18:40", "city": "Gazipur", "id": "1200109", "status": 200, "endpoint": "maps.mail.ru", "bytes": 124267, "saved": 35267, "pois": 678, "sec": 54.5}
+{"ts": "2026-11-11 12:19:25", "city": "Benin City", "id": "2347283", "status": 200, "endpoint": "overpass-api.de", "bytes": 154230, "saved": 50869, "pois": 997, "sec": 30.9}
+{"ts": "2026-11-11 12:21:15", "city": "Bekasi", "id": "1649378", "status": 200, "endpoint": "overpass-api.de", "bytes": 1311794, "saved": 214911, "pois": 4176, "sec": 51.1}
+{"ts": "2026-11-11 12:21:59", "city": "Maracaibo", "id": "3633009", "status": 200, "endpoint": "overpass-api.de", "bytes": 101397, "saved": 33965, "pois": 749, "sec": 41.3}
+{"ts": "2026-11-11 12:22:41", "city": "Tegucigalpa", "id": "3600949", "status": 200, "endpoint": "overpass-api.de", "bytes": 248172, "saved": 66967, "pois": 1414, "sec": 39.8}
+{"ts": "2026-11-11 12:23:28", "city": "Puebla", "id": "3521081", "status": 200, "endpoint": "overpass-api.de", "bytes": 1282364, "saved": 414034, "pois": 8898, "sec": 45.2}
+{"ts": "2026-11-11 12:24:07", "city": "Libreville", "id": "2399697", "status": 200, "endpoint": "overpass-api.de", "bytes": 221981, "saved": 33364, "pois": 684, "sec": 37.1}
+{"ts": "2026-11-11 12:24:49", "city": "Ulan Bator", "id": "2028462", "status": 200, "endpoint": "overpass-api.de", "bytes": 429150, "saved": 119260, "pois": 2519, "sec": 40.0}
+{"ts": "2026-11-11 12:27:38", "city": "Patna", "id": "1260086", "status": 200, "endpoint": "overpass-api.de", "bytes": 121763, "saved": 36732, "pois": 764, "sec": 43.1}
+{"ts": "2026-11-11 12:29:25", "city": "Mosul", "id": "99072", "status": 200, "endpoint": "overpass-api.de", "bytes": 395751, "saved": 121665, "pois": 2430, "sec": 45.5}
+{"ts": "2026-11-11 12:30:01", "city": "Gujranwala", "id": "1177662", "status": 200, "endpoint": "overpass-api.de", "bytes": 50112, "saved": 14961, "pois": 303, "sec": 32.4}
+{"ts": "2026-11-11 12:32:02", "city": "Bangui", "id": "2389853", "status": 0, "error": "overpass.kumi.systems: HTTP 504"}
+{"ts": "2026-11-11 12:32:51", "city": "Novosibirsk", "id": "1496747", "status": 200, "endpoint": "overpass-api.de", "bytes": 567953, "saved": 107752, "pois": 2333, "sec": 46.8}
+{"ts": "2026-11-11 12:33:52", "city": "Erbil", "id": "95446", "status": 200, "endpoint": "overpass-api.de", "bytes": 1454802, "saved": 228332, "pois": 4795, "sec": 48.2}
+{"ts": "2026-11-11 12:35:34", "city": "Freetown", "id": "2409306", "status": 200, "endpoint": "overpass-api.de", "bytes": 94899, "saved": 26596, "pois": 530, "sec": 48.1}
+{"ts": "2026-11-11 12:36:08", "city": "Nagpur", "id": "1262180", "status": 200, "endpoint": "overpass-api.de", "bytes": 120889, "saved": 38002, "pois": 780, "sec": 30.9}
+{"ts": "2026-11-11 12:37:00", "city": "Kisangani", "id": "212730", "status": 200, "endpoint": "overpass-api.de", "bytes": 13304, "saved": 4429, "pois": 90, "sec": 49.3}
+{"ts": "2026-11-11 12:37:43", "city": "Santiago de Queretaro", "id": "3991164", "status": 200, "endpoint": "overpass-api.de", "bytes": 442609, "saved": 130594, "pois": 2848, "sec": 40.5}
+{"ts": "2026-11-11 12:38:37", "city": "Makkah", "id": "104515", "status": 200, "endpoint": "overpass-api.de", "bytes": 567500, "saved": 131767, "pois": 2680, "sec": 51.8}
+{"ts": "2026-11-11 12:39:11", "city": "Quetta", "id": "1167528", "status": 200, "endpoint": "overpass-api.de", "bytes": 38234, "saved": 10077, "pois": 208, "sec": 32.0}
+{"ts": "2026-11-11 12:39:34", "city": "Isfahan", "id": "418863", "status": 200, "endpoint": "maps.mail.ru", "bytes": 593712, "saved": 159200, "pois": 3378, "sec": 21.4}
+{"ts": "2026-11-11 12:40:43", "city": "Queens", "id": "5133273", "status": 200, "endpoint": "overpass-api.de", "bytes": 7053802, "saved": 1107207, "pois": 23102, "sec": 55.3}
+{"ts": "2026-11-11 12:42:25", "city": "Houston", "id": "4699066", "status": 200, "endpoint": "overpass-api.de", "bytes": 1663419, "saved": 243113, "pois": 4971, "sec": 40.5}
+{"ts": "2026-11-11 12:43:11", "city": "Goiania", "id": "3462377", "status": 200, "endpoint": "overpass-api.de", "bytes": 267477, "saved": 79510, "pois": 1734, "sec": 42.9}
+{"ts": "2026-11-11 12:44:02", "city": "Dodoma", "id": "160196", "status": 200, "endpoint": "overpass-api.de", "bytes": 74818, "saved": 23296, "pois": 490, "sec": 47.3}
+{"ts": "2026-11-11 12:44:46", "city": "Can Tho", "id": "1586203", "status": 200, "endpoint": "overpass-api.de", "bytes": 294798, "saved": 69923, "pois": 1483, "sec": 42.3}
+{"ts": "2026-11-11 12:45:24", "city": "Khulna", "id": "1336135", "status": 200, "endpoint": "overpass-api.de", "bytes": 53103, "saved": 15357, "pois": 301, "sec": 35.7}
+{"ts": "2026-11-11 12:46:04", "city": "Belem", "id": "3405870", "status": 200, "endpoint": "overpass-api.de", "bytes": 274896, "saved": 71564, "pois": 1478, "sec": 37.7}
+{"ts": "2026-11-11 12:47:44", "city": "Yekaterinburg", "id": "1486209", "status": 200, "endpoint": "overpass-api.de", "bytes": 864787, "saved": 193671, "pois": 4119, "sec": 31.1}
+{"ts": "2026-11-11 12:48:38", "city": "Porto Alegre", "id": "3452925", "status": 200, "endpoint": "overpass-api.de", "bytes": 899475, "saved": 169491, "pois": 3601, "sec": 46.3}
+{"ts": "2026-11-11 12:49:18", "city": "Makassar", "id": "1622786", "status": 200, "endpoint": "overpass-api.de", "bytes": 708030, "saved": 211604, "pois": 4233, "sec": 36.0}
+{"ts": "2026-11-11 12:50:11", "city": "Adelaide", "id": "2078025", "status": 200, "endpoint": "overpass-api.de", "bytes": 1226444, "saved": 322804, "pois": 6894, "sec": 50.3}
+{"ts": "2026-11-11 12:50:41", "city": "Kayseri", "id": "308464", "status": 200, "endpoint": "overpass-api.de", "bytes": 337478, "saved": 77668, "pois": 1557, "sec": 28.3}
+{"ts": "2026-11-11 12:51:19", "city": "Karaj", "id": "128747", "status": 200, "endpoint": "overpass-api.de", "bytes": 286230, "saved": 82260, "pois": 1764, "sec": 35.9}
+{"ts": "2026-11-11 12:51:56", "city": "Multan", "id": "1169825", "status": 200, "endpoint": "overpass-api.de", "bytes": 84773, "saved": 25124, "pois": 510, "sec": 35.3}
+{"ts": "2026-11-11 12:52:55", "city": "Depok", "id": "1645524", "status": 200, "endpoint": "overpass-api.de", "bytes": 1127889, "saved": 201467, "pois": 3980, "sec": 45.3}
+{"ts": "2026-11-11 12:57:00", "city": "Daejeon", "id": "1835235", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 12:57:20", "city": "Konya", "id": "306571", "status": 200, "endpoint": "maps.mail.ru", "bytes": 371549, "saved": 100398, "pois": 2010, "sec": 17.5}
+{"ts": "2026-11-11 12:59:18", "city": "Tabriz", "id": "113646", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-11 12:59:46", "city": "Coimbatore", "id": "1273865", "status": 200, "endpoint": "maps.mail.ru", "bytes": 193318, "saved": 51075, "pois": 1056, "sec": 25.6}
+{"ts": "2026-11-11 13:00:17", "city": "Kharkiv", "id": "706483", "status": 200, "endpoint": "maps.mail.ru", "bytes": 1261383, "saved": 268142, "pois": 5839, "sec": 28.5}
+{"ts": "2026-11-11 13:03:26", "city": "Gwangju", "id": "1841811", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 13:03:31", "city": "Tunis", "id": "2464470", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-11 13:06:36", "city": "Dushanbe", "id": "1221874", "status": 200, "endpoint": "overpass.kumi.systems", "bytes": 322875, "saved": 103305, "pois": 2257, "sec": 100.5}
+{"ts": "2026-11-11 13:08:39", "city": "Douala", "id": "2232593", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 13:09:54", "city": "Indore", "id": "1269743", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-11 13:10:13", "city": "Basrah", "id": "99532", "status": 200, "endpoint": "maps.mail.ru", "bytes": 321004, "saved": 96497, "pois": 1985, "sec": 17.3}
+{"ts": "2026-11-11 13:10:52", "city": "Saitama", "id": "6940394", "status": 200, "endpoint": "maps.mail.ru", "bytes": 2306734, "saved": 658143, "pois": 13928, "sec": 32.5}
+{"ts": "2026-11-11 13:11:23", "city": "Madinah", "id": "109223", "status": 200, "endpoint": "maps.mail.ru", "bytes": 277585, "saved": 68255, "pois": 1368, "sec": 29.2}
+{"ts": "2026-11-11 13:11:49", "city": "Colombo", "id": "1248991", "status": 200, "endpoint": "maps.mail.ru", "bytes": 487979, "saved": 116874, "pois": 2402, "sec": 24.0}
+{"ts": "2026-11-11 13:14:55", "city": "Tangerang", "id": "1625084", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 13:15:31", "city": "Tijuana", "id": "3981609", "status": 200, "endpoint": "maps.mail.ru", "bytes": 536104, "saved": 140162, "pois": 3034, "sec": 33.1}
+{"ts": "2026-11-11 13:16:43", "city": "Hyderabad", "id": "1176734", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-11 13:18:47", "city": "Bien Hoa", "id": "1587923", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 13:18:50", "city": "Chisinau", "id": "618426", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-11 13:22:18", "city": "Kananga", "id": "214481", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 13:22:33", "city": "Nizhniy Novgorod", "id": "520555", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-11 13:22:38", "city": "Djibouti", "id": "223817", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-11 13:22:41", "city": "Dammam", "id": "110336", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-11 13:25:17", "city": "Shiraz", "id": "115019", "status": 200, "endpoint": "overpass.kumi.systems", "bytes": 663798, "saved": 136328, "pois": 2932, "sec": 88.9}
+{"ts": "2026-11-11 13:29:06", "city": "Camayenne", "id": "2422488", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 13:29:47", "city": "Kazan", "id": "551487", "status": 200, "endpoint": "maps.mail.ru", "bytes": 1380776, "saved": 222718, "pois": 4787, "sec": 34.0}
+{"ts": "2026-11-11 13:30:12", "city": "Barquisimeto", "id": "3648522", "status": 200, "endpoint": "maps.mail.ru", "bytes": 103550, "saved": 37069, "pois": 809, "sec": 22.7}
+{"ts": "2026-11-11 13:31:34", "city": "Suwon", "id": "1835553", "status": 200, "endpoint": "maps.mail.ru", "bytes": 1443087, "saved": 311471, "pois": 6504, "sec": 26.5}
+{"ts": "2026-11-11 13:33:50", "city": "Omdurman", "id": "365137", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 13:33:55", "city": "Thane", "id": "1254661", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-11 13:33:58", "city": "Callao", "id": "3946083", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-11 13:37:21", "city": "Iztapalapa", "id": "3526683", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 13:37:23", "city": "Karbala", "id": "94824", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-11 13:38:05", "city": "Vadodara", "id": "1253573", "status": 0, "error": "maps.mail.ru: HTTP 504"}
+{"ts": "2026-11-11 13:38:09", "city": "Mombasa", "id": "186301", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-11 13:38:12", "city": "Srinagar", "id": "1255634", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-11 13:38:15", "city": "Barranquilla", "id": "3689147", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-11 13:42:42", "city": "Islamabad", "id": "1176615", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 13:43:14", "city": "Chelyabinsk", "id": "1508291", "status": 200, "endpoint": "maps.mail.ru", "bytes": 648181, "saved": 114056, "pois": 2346, "sec": 30.0}
+{"ts": "2026-11-11 13:44:07", "city": "Santiago de los Caballeros", "id": "3492914", "status": 200, "endpoint": "maps.mail.ru", "bytes": 193164, "saved": 46446, "pois": 983, "sec": 45.1}
+{"ts": "2026-11-11 13:45:09", "city": "Shymkent", "id": "1518980", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-11 13:48:07", "city": "Matola", "id": "1039854", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 13:48:11", "city": "Arequipa", "id": "3947322", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-11 13:51:31", "city": "Omsk", "id": "1496153", "status": 200, "endpoint": "overpass.kumi.systems", "bytes": 440874, "saved": 87450, "pois": 1886, "sec": 113.7}
+{"ts": "2026-11-11 13:55:28", "city": "Pekanbaru", "id": "1631761", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 13:56:28", "city": "Samara", "id": "499099", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-11 13:56:31", "city": "Caloocan", "id": "1720151", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-11 13:56:34", "city": "Monterrey", "id": "3995465", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-11 13:58:40", "city": "Rostov-on-Don", "id": "501175", "status": 200, "endpoint": "overpass.kumi.systems", "bytes": 554713, "saved": 103820, "pois": 2191, "sec": 102.0}
+{"ts": "2026-11-11 14:00:43", "city": "Soweto", "id": "953781", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 14:01:09", "city": "Asmara", "id": "343300", "status": 200, "endpoint": "maps.mail.ru", "bytes": 65359, "saved": 16472, "pois": 345, "sec": 23.6}
+{"ts": "2026-11-11 14:01:45", "city": "Ufa", "id": "479561", "status": 200, "endpoint": "maps.mail.ru", "bytes": 449178, "saved": 94069, "pois": 2016, "sec": 34.7}
+{"ts": "2026-11-11 14:02:48", "city": "Maiduguri", "id": "2331447", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-11 14:03:26", "city": "Mwanza", "id": "152224", "status": 200, "endpoint": "maps.mail.ru", "bytes": 684226, "saved": 106271, "pois": 2198, "sec": 35.3}
+{"ts": "2026-11-11 14:04:00", "city": "Pristina", "id": "786714", "status": 200, "endpoint": "maps.mail.ru", "bytes": 412728, "saved": 91131, "pois": 1925, "sec": 32.2}
+{"ts": "2026-11-11 14:05:12", "city": "Ulsan", "id": "1833747", "status": 200, "endpoint": "maps.mail.ru", "bytes": 335383, "saved": 86910, "pois": 1829, "sec": 20.9}
+{"ts": "2026-11-11 14:05:30", "city": "Ecatepec de Morelos", "id": "3529612", "status": 200, "endpoint": "maps.mail.ru", "bytes": 571993, "saved": 183112, "pois": 3914, "sec": 11.5}
+{"ts": "2026-11-11 14:05:59", "city": "Sendai", "id": "2111149", "status": 200, "endpoint": "maps.mail.ru", "bytes": 2129621, "saved": 421184, "pois": 8855, "sec": 26.8}
+{"ts": "2026-11-11 14:06:23", "city": "Krasnoyarsk", "id": "1502026", "status": 200, "endpoint": "maps.mail.ru", "bytes": 423543, "saved": 80662, "pois": 1717, "sec": 22.2}
+{"ts": "2026-11-11 14:06:42", "city": "Bandar Lampung", "id": "1624917", "status": 200, "endpoint": "maps.mail.ru", "bytes": 272864, "saved": 99120, "pois": 1993, "sec": 17.1}
+{"ts": "2026-11-11 14:09:44", "city": "Ilorin", "id": "2337639", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 14:10:02", "city": "Aden", "id": "415189", "status": 200, "endpoint": "maps.mail.ru", "bytes": 107537, "saved": 24202, "pois": 497, "sec": 16.1}
+{"ts": "2026-11-11 14:11:10", "city": "Trujillo", "id": "3691175", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-11 14:11:14", "city": "Leon de los Aldama", "id": "3998655", "status": 0, "error": "maps.mail.ru: HTTP 504"}
+{"ts": "2026-11-11 14:13:16", "city": "San Salvador", "id": "3583361", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 14:13:19", "city": "Voronezh", "id": "472045", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-11 14:16:47", "city": "Sokoto", "id": "2322911", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 14:17:16", "city": "Jos", "id": "2335953", "status": 200, "endpoint": "maps.mail.ru", "bytes": 203743, "saved": 47532, "pois": 891, "sec": 22.4}
+{"ts": "2026-11-11 14:18:18", "city": "Onitsha", "id": "2326016", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-11 14:20:25", "city": "Mexicali", "id": "3996069", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 14:20:29", "city": "Pointe-Noire", "id": "2255414", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-11 14:23:58", "city": "Maceio", "id": "3395981", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 14:25:01", "city": "Rangpur", "id": "1185188", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-11 14:25:23", "city": "Kirkuk", "id": "94787", "status": 200, "endpoint": "maps.mail.ru", "bytes": 267854, "saved": 70253, "pois": 1445, "sec": 19.7}
+{"ts": "2026-11-11 14:26:31", "city": "Changwon", "id": "1846326", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-11 14:29:37", "city": "Kawasaki", "id": "1859642", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 14:29:41", "city": "Volgograd", "id": "472757", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-11 14:35:11", "city": "Edmonton", "id": "5946768", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 14:36:13", "city": "Odesa", "id": "698740", "status": 200, "endpoint": "maps.mail.ru", "bytes": 924199, "saved": 151058, "pois": 3204, "sec": 55.3}
+{"ts": "2026-11-11 14:37:24", "city": "Ciudad Juarez", "id": "4013708", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-11 14:41:21", "city": "Zapopan", "id": "3979770", "status": 0, "error": "overpass.kumi.systems: HTTP 504"}
+{"ts": "2026-11-11 14:41:25", "city": "Perm", "id": "511196", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-11 14:42:28", "city": "Chiba", "id": "2113015", "status": 0, "error": "maps.mail.ru: HTTP 504"}
+{"ts": "2026-11-11 14:43:03", "city": "Jerusalem", "id": "281184", "status": 200, "endpoint": "maps.mail.ru", "bytes": 1047562, "saved": 241759, "pois": 5059, "sec": 32.4}
+{"ts": "2026-11-11 14:43:16", "city": "Dnipro", "id": "709930", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-11 14:43:49", "city": "Cebu City", "id": "1717512", "status": 200, "endpoint": "maps.mail.ru", "bytes": 554508, "saved": 142188, "pois": 2978, "sec": 30.8}
+{"ts": "2026-11-11 14:44:55", "city": "South Tangerang", "id": "8581443", "status": 0, "error": "maps.mail.ru: HTTP 504"}
+{"ts": "2026-11-11 14:44:59", "city": "Enugu", "id": "2343279", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-11 14:46:50", "city": "Skopje", "id": "785842", "status": 200, "endpoint": "overpass.kumi.systems", "bytes": 531790, "saved": 126969, "pois": 2680, "sec": 88.9}
+{"ts": "2026-11-11 14:48:55", "city": "Padang", "id": "1633419", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 14:48:58", "city": "Taiz", "id": "70225", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-11 14:49:30", "city": "Chihuahua", "id": "4014338", "status": 200, "endpoint": "maps.mail.ru", "bytes": 217609, "saved": 81489, "pois": 1808, "sec": 29.7}
+{"ts": "2026-11-11 14:49:45", "city": "Eskisehir", "id": "315202", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-11 14:50:41", "city": "Sao Luis", "id": "3388368", "status": 0, "error": "maps.mail.ru: HTTP 504"}
+{"ts": "2026-11-11 14:52:27", "city": "Campo Grande", "id": "3467747", "status": 200, "endpoint": "overpass.kumi.systems", "bytes": 106459, "saved": 26715, "pois": 573, "sec": 103.6}
+{"ts": "2026-11-11 14:54:30", "city": "Bannu", "id": "1183460", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 14:54:35", "city": "Bobo-Dioulasso", "id": "2362344", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-11 14:54:39", "city": "Blantyre", "id": "931755", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-11 14:55:54", "city": "Donetsk", "id": "709717", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-11 14:56:48", "city": "Qom", "id": "119208", "status": 0, "error": "maps.mail.ru: HTTP 504"}
+{"ts": "2026-11-11 14:58:51", "city": "Juba", "id": "373303", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 14:58:53", "city": "Krasnodar", "id": "542420", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-11 14:59:55", "city": "Guarulhos", "id": "3461786", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-11 14:59:58", "city": "Natal", "id": "3394023", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-11 15:00:01", "city": "Abobo", "id": "2293521", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-11 15:02:21", "city": "Bissau", "id": "2374775", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 15:03:30", "city": "Sulaymaniyah", "id": "98463", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-11 15:03:34", "city": "Taguig", "id": "1684308", "status": 0, "error": "maps.mail.ru: HTTP 504"}
+{"ts": "2026-11-11 15:05:52", "city": "Teresina", "id": "3386496", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 15:05:56", "city": "Samarinda", "id": "1629001", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-11 15:05:59", "city": "Batam", "id": "6295587", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-11 15:06:02", "city": "Johor Bahru", "id": "1732752", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-11 15:09:22", "city": "Cheongju-si", "id": "1845604", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 15:09:36", "city": "Thanh Hoa", "id": "1566166", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-11 15:09:40", "city": "Budta", "id": "1723510", "status": 0, "error": "maps.mail.ru: HTTP 504"}
+{"ts": "2026-11-11 15:10:03", "city": "Bratislava", "id": "3060972", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-11 15:10:07", "city": "Saratov", "id": "498677", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-11 15:10:10", "city": "Takeo", "id": "1821940", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-11 15:14:48", "city": "Cochabamba", "id": "3919968", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 15:15:03", "city": "Ahvaz", "id": "144448", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-11 15:15:08", "city": "Pietermaritzburg", "id": "965301", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-11 15:15:11", "city": "Jepara", "id": "1642548", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-11 15:20:16", "city": "Tirana", "id": "3183875", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 15:21:27", "city": "San Juan", "id": "4568127", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-11 15:22:21", "city": "Bouake", "id": "2290956", "status": 200, "endpoint": "maps.mail.ru", "bytes": 247394, "saved": 58693, "pois": 1147, "sec": 52.3}
+{"ts": "2026-11-11 15:22:57", "city": "Shubra al Khaymah", "id": "349076", "status": 200, "endpoint": "maps.mail.ru", "bytes": 1356443, "saved": 464517, "pois": 10042, "sec": 29.5}
+{"ts": "2026-11-11 15:26:58", "city": "Joao Pessoa", "id": "3397277", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 15:27:05", "city": "Bukavu", "id": "217831", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-11 15:30:29", "city": "Panama City", "id": "3703443", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 15:30:32", "city": "Barcelona", "id": "3648559", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-11 15:31:31", "city": "Hermosillo", "id": "4004898", "status": 200, "endpoint": "maps.mail.ru", "bytes": 155165, "saved": 49046, "pois": 1078, "sec": 27.6}
+{"ts": "2026-11-11 15:32:46", "city": "Culiacan", "id": "4012176", "status": 200, "endpoint": "maps.mail.ru", "bytes": 167186, "saved": 50141, "pois": 1099, "sec": 23.5}
+{"ts": "2026-11-11 15:35:03", "city": "Sadr City", "id": "7802746", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 15:35:07", "city": "Oran", "id": "2485926", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-11 15:35:10", "city": "San Pedro Sula", "id": "3601782", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-11 15:38:35", "city": "Niigata", "id": "1855431", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 15:38:37", "city": "Zarqa", "id": "250090", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-11 15:39:42", "city": "Vinh", "id": "1562798", "status": 200, "endpoint": "maps.mail.ru", "bytes": 29299, "saved": 8693, "pois": 183, "sec": 32.4}
+{"ts": "2026-11-11 15:40:05", "city": "Pikine", "id": "2246678", "status": 200, "endpoint": "maps.mail.ru", "bytes": 492698, "saved": 162638, "pois": 3303, "sec": 20.4}
+{"ts": "2026-11-11 15:40:42", "city": "Port Said", "id": "358619", "status": 200, "endpoint": "maps.mail.ru", "bytes": 37794, "saved": 12718, "pois": 266, "sec": 31.1}
+{"ts": "2026-11-11 15:41:06", "city": "Cucuta", "id": "3685533", "status": 200, "endpoint": "maps.mail.ru", "bytes": 257255, "saved": 86829, "pois": 1873, "sec": 22.4}
+{"ts": "2026-11-11 15:44:02", "city": "Homs", "id": "169577", "status": 200, "endpoint": "overpass.kumi.systems", "bytes": 100121, "saved": 32982, "pois": 658, "sec": 113.2}
+{"ts": "2026-11-11 15:46:07", "city": "Aba", "id": "2353151", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 15:46:11", "city": "Windhoek", "id": "3352136", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-11 15:49:38", "city": "Birmingham", "id": "2655603", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 15:50:51", "city": "Ibb", "id": "74477", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-11 15:51:27", "city": "Nampula", "id": "1033356", "status": 200, "endpoint": "maps.mail.ru", "bytes": 21788, "saved": 5814, "pois": 118, "sec": 34.4}
+{"ts": "2026-11-11 15:51:59", "city": "Bujumbura", "id": "425378", "status": 200, "endpoint": "maps.mail.ru", "bytes": 100083, "saved": 27829, "pois": 579, "sec": 25.5}
+{"ts": "2026-11-11 15:53:14", "city": "Tyumen", "id": "1488754", "status": 200, "endpoint": "maps.mail.ru", "bytes": 349381, "saved": 68182, "pois": 1474, "sec": 16.8}
+{"ts": "2026-11-11 15:53:41", "city": "Erzurum", "id": "315368", "status": 200, "endpoint": "maps.mail.ru", "bytes": 92073, "saved": 31537, "pois": 649, "sec": 24.5}
+{"ts": "2026-11-11 15:54:56", "city": "Rajshahi", "id": "1185128", "status": 200, "endpoint": "maps.mail.ru", "bytes": 79361, "saved": 22805, "pois": 453, "sec": 19.0}
+{"ts": "2026-11-11 15:55:16", "city": "Ipoh", "id": "1734634", "status": 200, "endpoint": "maps.mail.ru", "bytes": 316532, "saved": 81342, "pois": 1679, "sec": 17.6}
+{"ts": "2026-11-11 15:55:40", "city": "Benghazi", "id": "88319", "status": 200, "endpoint": "maps.mail.ru", "bytes": 165694, "saved": 45175, "pois": 929, "sec": 22.6}
+{"ts": "2026-11-11 15:58:47", "city": "Malatya", "id": "304922", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 15:58:52", "city": "Winnipeg", "id": "6183235", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-11 15:58:55", "city": "Malingao", "id": "1978681", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-11 16:02:17", "city": "Andijon", "id": "1514588", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 16:02:20", "city": "Touba", "id": "2244322", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-11 16:03:02", "city": "Buraydah", "id": "107304", "status": 0, "error": "maps.mail.ru: HTTP 504"}
+{"ts": "2026-11-11 16:03:06", "city": "Kumamoto", "id": "1858421", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-11 16:03:10", "city": "Canberra", "id": "2172517", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-11 16:03:13", "city": "Abeokuta", "id": "2352947", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-11 16:07:50", "city": "Al Hudaydah", "id": "79415", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 16:08:17", "city": "Akure", "id": "2350841", "status": 200, "endpoint": "maps.mail.ru", "bytes": 33803, "saved": 7527, "pois": 154, "sec": 24.8}
+{"ts": "2026-11-11 16:09:18", "city": "Muzaffarabad", "id": "1169607", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-11 16:09:22", "city": "Okayama", "id": "1854383", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-11 16:11:26", "city": "Maseru", "id": "932505", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 16:11:28", "city": "Lviv", "id": "702550", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-11 16:14:56", "city": "Namangan", "id": "1513157", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 16:15:12", "city": "Zaporizhzhya", "id": "687700", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-11 16:15:32", "city": "Latakia", "id": "173576", "status": 200, "endpoint": "maps.mail.ru", "bytes": 113616, "saved": 36520, "pois": 758, "sec": 18.8}
+{"ts": "2026-11-11 16:16:08", "city": "Goyang-si", "id": "1842485", "status": 200, "endpoint": "maps.mail.ru", "bytes": 3580688, "saved": 677758, "pois": 13829, "sec": 33.6}
+{"ts": "2026-11-11 16:17:14", "city": "Gqeberha", "id": "964420", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-11 16:20:12", "city": "Santo Domingo Este", "id": "8601412", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 16:20:15", "city": "Suez", "id": "359796", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-11 16:23:30", "city": "Agadir", "id": "2561668", "status": 200, "endpoint": "overpass.kumi.systems", "bytes": 143977, "saved": 47795, "pois": 1018, "sec": 107.9}
+{"ts": "2026-11-11 16:27:46", "city": "Bauchi", "id": "2347470", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 16:27:51", "city": "Beira", "id": "1052373", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-11 16:27:55", "city": "Zaragoza", "id": "3104324", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-11 16:31:09", "city": "Zamboanga", "id": "1679432", "status": 200, "endpoint": "overpass.kumi.systems", "bytes": 91096, "saved": 21390, "pois": 435, "sec": 112.6}
+{"ts": "2026-11-11 16:34:57", "city": "Khartoum North", "id": "379251", "status": 0, "error": "overpass.kumi.systems: HTTP 504"}
+{"ts": "2026-11-11 16:35:34", "city": "San Jose", "id": "3621849", "status": 200, "endpoint": "maps.mail.ru", "bytes": 1379274, "saved": 340298, "pois": 7390, "sec": 35.3}
+{"ts": "2026-11-11 16:39:28", "city": "Katsina", "id": "2334802", "status": 0, "error": "overpass.kumi.systems: HTTP 504"}
+{"ts": "2026-11-11 16:39:33", "city": "Tabuk", "id": "101628", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-11 16:39:36", "city": "Bulawayo", "id": "894701", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-11 16:41:03", "city": "Esenyurt", "id": "747323", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-11 16:42:34", "city": "Zaria", "id": "2317765", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-11 16:45:29", "city": "Ciudad Guayana", "id": "3645528", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 16:45:45", "city": "Sargodha", "id": "1166000", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-11 16:46:37", "city": "Izhevsk", "id": "554840", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-11 16:46:41", "city": "Sale", "id": "2537763", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-11 16:50:53", "city": "Maturin", "id": "3778045", "status": 0, "error": "overpass.kumi.systems: HTTP 504"}
+{"ts": "2026-11-11 16:51:15", "city": "Osogbo", "id": "2325590", "status": 200, "endpoint": "maps.mail.ru", "bytes": 9500, "saved": 2090, "pois": 42, "sec": 20.5}
+{"ts": "2026-11-11 16:51:39", "city": "Lodz", "id": "3093133", "status": 200, "endpoint": "maps.mail.ru", "bytes": 994365, "saved": 217508, "pois": 4594, "sec": 22.4}
+{"ts": "2026-11-11 16:52:10", "city": "Jeonju", "id": "1845457", "status": 200, "endpoint": "maps.mail.ru", "bytes": 289920, "saved": 63277, "pois": 1336, "sec": 28.6}
+{"ts": "2026-11-11 16:52:44", "city": "Victoria", "id": "1931681", "status": 200, "endpoint": "maps.mail.ru", "bytes": 3011116, "saved": 424081, "pois": 8829, "sec": 31.9}
+{"ts": "2026-11-11 16:56:36", "city": "Al Ahmadi", "id": "285839", "status": 200, "endpoint": "overpass.kumi.systems", "bytes": 138159, "saved": 25541, "pois": 496, "sec": 107.9}
+{"ts": "2026-11-11 16:59:33", "city": "Cuenca", "id": "3658666", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 16:59:38", "city": "Barnaul", "id": "1510853", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-11 17:03:04", "city": "Rosario", "id": "3838583", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 17:04:36", "city": "Sultanah", "id": "101760", "status": 200, "endpoint": "maps.mail.ru", "bytes": 261963, "saved": 64071, "pois": 1289, "sec": 26.0}
+{"ts": "2026-11-11 17:05:02", "city": "Piura", "id": "3693528", "status": 200, "endpoint": "maps.mail.ru", "bytes": 157576, "saved": 59776, "pois": 1310, "sec": 19.6}
+{"ts": "2026-11-11 17:08:08", "city": "Ndola", "id": "901344", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 17:08:13", "city": "Al Mansurah", "id": "360761", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-11 17:08:16", "city": "Kermanshah", "id": "128226", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-11 17:11:20", "city": "Duesseldorf", "id": "2934246", "status": 200, "endpoint": "overpass.kumi.systems", "bytes": 3576777, "saved": 520076, "pois": 10492, "sec": 102.3}
+{"ts": "2026-11-11 17:12:51", "city": "Stuttgart", "id": "2825297", "status": 200, "endpoint": "overpass.kumi.systems", "bytes": 3285117, "saved": 460742, "pois": 9398, "sec": 88.3}
+{"ts": "2026-11-11 17:13:27", "city": "Seongnam-si", "id": "1897000", "status": 200, "endpoint": "maps.mail.ru", "bytes": 1310817, "saved": 259079, "pois": 5339, "sec": 28.3}
+{"ts": "2026-11-11 17:17:16", "city": "Chiclayo", "id": "3698350", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 17:17:21", "city": "Antipolo", "id": "1730501", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-11 17:17:24", "city": "Gothenburg", "id": "2711537", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-11 17:20:47", "city": "Sialkot", "id": "1164909", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 17:20:49", "city": "Ha'il", "id": "106281", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-11 17:21:40", "city": "Bahawalpur", "id": "1183880", "status": 200, "endpoint": "maps.mail.ru", "bytes": 30006, "saved": 7853, "pois": 162, "sec": 20.9}
+{"ts": "2026-11-11 17:22:00", "city": "Lubango", "id": "3347762", "status": 200, "endpoint": "maps.mail.ru", "bytes": 249522, "saved": 72640, "pois": 1565, "sec": 17.4}
+{"ts": "2026-11-11 17:22:31", "city": "Pokhara", "id": "1282898", "status": 200, "endpoint": "maps.mail.ru", "bytes": 659141, "saved": 162997, "pois": 3354, "sec": 29.2}
+{"ts": "2026-11-11 17:25:46", "city": "Abu Ghurayb", "id": "100077", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 17:25:52", "city": "Huambo", "id": "3348313", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-11 17:25:55", "city": "Samarkand", "id": "1216265", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-11 17:28:44", "city": "Mukalla", "id": "78754", "status": 200, "endpoint": "overpass.kumi.systems", "bytes": 54099, "saved": 12082, "pois": 243, "sec": 87.8}
+{"ts": "2026-11-11 17:30:47", "city": "Rasht", "id": "118743", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 17:31:23", "city": "Mulenvos", "id": "8307074", "status": 200, "endpoint": "maps.mail.ru", "bytes": 40914, "saved": 11379, "pois": 231, "sec": 33.8}
+{"ts": "2026-11-11 17:31:38", "city": "Soshanguve", "id": "954013", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-11 17:32:39", "city": "Bucaramanga", "id": "3688465", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-11 17:36:31", "city": "Malacca", "id": "1734759", "status": 0, "error": "overpass.kumi.systems: HTTP 504"}
+{"ts": "2026-11-11 17:38:34", "city": "Nha Trang", "id": "1572151", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 17:38:49", "city": "Kerman", "id": "128234", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-11 17:39:11", "city": "Orumiyeh", "id": "121801", "status": 200, "endpoint": "maps.mail.ru", "bytes": 102076, "saved": 27995, "pois": 580, "sec": 19.6}
+{"ts": "2026-11-11 17:40:13", "city": "Viana", "id": "2236500", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-11 17:42:18", "city": "Tanta", "id": "347497", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 17:42:21", "city": "Calamba", "id": "1720681", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-11 17:45:48", "city": "Herat", "id": "1140026", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 17:47:16", "city": "Nakuru", "id": "184622", "status": 200, "endpoint": "maps.mail.ru", "bytes": 47021, "saved": 13401, "pois": 273, "sec": 32.5}
+{"ts": "2026-11-11 17:48:21", "city": "Arifwala", "id": "1184370", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-11 17:51:18", "city": "Irbid", "id": "248946", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 17:51:21", "city": "Kota Bharu", "id": "1736376", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-11 17:54:44", "city": "Pasig City", "id": "7290466", "status": 0, "error": "overpass.kumi.systems: HTTP 504"}
+{"ts": "2026-11-11 17:56:05", "city": "Port Moresby", "id": "2088122", "status": 200, "endpoint": "maps.mail.ru", "bytes": 75809, "saved": 19217, "pois": 395, "sec": 27.5}
+{"ts": "2026-11-11 17:56:20", "city": "Bucheon-si", "id": "1838716", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-11 17:56:47", "city": "Nyala", "id": "369004", "status": 200, "endpoint": "maps.mail.ru", "bytes": 4232, "saved": 1522, "pois": 30, "sec": 25.4}
+{"ts": "2026-11-11 17:57:12", "city": "Al Ain City", "id": "292913", "status": 200, "endpoint": "maps.mail.ru", "bytes": 193434, "saved": 50755, "pois": 1033, "sec": 22.4}
+{"ts": "2026-11-11 17:57:38", "city": "Hamhung", "id": "1877449", "status": 200, "endpoint": "maps.mail.ru", "bytes": 12714, "saved": 5417, "pois": 111, "sec": 24.1}
+{"ts": "2026-11-11 17:58:01", "city": "Nasiriyah", "id": "98854", "status": 200, "endpoint": "maps.mail.ru", "bytes": 113143, "saved": 34785, "pois": 731, "sec": 21.5}
+{"ts": "2026-11-11 17:59:07", "city": "Bloemfontein", "id": "1018725", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-11 18:01:12", "city": "Santiago de Cuba", "id": "3536729", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 18:01:15", "city": "Kampung Baru Subang", "id": "1771023", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-11 18:04:43", "city": "Benguela", "id": "3351663", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 18:04:58", "city": "Zahedan", "id": "1159301", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-11 18:05:25", "city": "Yamoussoukro", "id": "2279755", "status": 200, "endpoint": "maps.mail.ru", "bytes": 73974, "saved": 25998, "pois": 535, "sec": 25.1}
+{"ts": "2026-11-11 18:05:51", "city": "Cabinda", "id": "2243271", "status": 200, "endpoint": "maps.mail.ru", "bytes": 11021, "saved": 3421, "pois": 72, "sec": 23.7}
+{"ts": "2026-11-11 18:07:19", "city": "San Miguel de Tucuman", "id": "3836873", "status": 200, "endpoint": "maps.mail.ru", "bytes": 136634, "saved": 39759, "pois": 863, "sec": 25.8}
+{"ts": "2026-11-11 18:11:19", "city": "Kuantan", "id": "1735227", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 18:11:43", "city": "Sevastopol", "id": "694423", "status": 200, "endpoint": "maps.mail.ru", "bytes": 463367, "saved": 98311, "pois": 2075, "sec": 22.2}
+{"ts": "2026-11-11 18:12:48", "city": "Bremen", "id": "2944388", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-11 18:16:23", "city": "Mbeya", "id": "154380", "status": 200, "endpoint": "overpass.kumi.systems", "bytes": 51991, "saved": 16562, "pois": 337, "sec": 96.8}
+{"ts": "2026-11-11 18:18:26", "city": "Oujda", "id": "2540483", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 18:19:03", "city": "Petaling Jaya", "id": "1735158", "status": 200, "endpoint": "maps.mail.ru", "bytes": 1012329, "saved": 224339, "pois": 4613, "sec": 30.1}
+{"ts": "2026-11-11 18:19:26", "city": "Mersin", "id": "304531", "status": 200, "endpoint": "maps.mail.ru", "bytes": 132062, "saved": 31654, "pois": 667, "sec": 21.1}
+{"ts": "2026-11-11 18:19:41", "city": "Ar Raqqah", "id": "172955", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-11 18:19:45", "city": "Ibague", "id": "3680656", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-11 18:19:48", "city": "Assiut", "id": "359783", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-11 18:21:57", "city": "Porto-Novo", "id": "2392087", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 18:21:59", "city": "Hamadan", "id": "132144", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-11 18:25:28", "city": "Cankaya", "id": "6955677", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 18:25:59", "city": "Kuecuekcekmece", "id": "742394", "status": 200, "endpoint": "maps.mail.ru", "bytes": 555321, "saved": 132406, "pois": 2801, "sec": 29.6}
+{"ts": "2026-11-11 18:26:15", "city": "Kolwezi", "id": "922773", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-11 18:27:10", "city": "Van", "id": "298117", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-11 18:29:14", "city": "Mazar-e Sharif", "id": "1133616", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 18:29:17", "city": "Kandahar", "id": "1138336", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-11 18:32:45", "city": "Salta", "id": "3838233", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 18:34:29", "city": "Qui Nhon", "id": "1568574", "status": 200, "endpoint": "overpass-api.de", "bytes": 84099, "saved": 18965, "pois": 398, "sec": 39.4}
+{"ts": "2026-11-11 18:38:24", "city": "Al Fayyum", "id": "361320", "status": 0, "error": "overpass.kumi.systems: HTTP 504"}
+{"ts": "2026-11-11 18:40:28", "city": "Hannover", "id": "2910831", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 18:41:13", "city": "Toulouse", "id": "2972315", "status": 200, "endpoint": "maps.mail.ru", "bytes": 1993440, "saved": 286414, "pois": 5937, "sec": 37.6}
+{"ts": "2026-11-11 18:41:43", "city": "Dera Ismail Khan", "id": "1180281", "status": 200, "endpoint": "maps.mail.ru", "bytes": 4546, "saved": 1385, "pois": 28, "sec": 28.1}
+{"ts": "2026-11-11 18:41:57", "city": "Tuen Mun", "id": "1818446", "status": 0, "error": "maps.mail.ru: HTTP 504"}
+{"ts": "2026-11-11 18:44:00", "city": "Najran", "id": "103630", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 18:44:43", "city": "Arak", "id": "143127", "status": 200, "endpoint": "overpass-api.de", "bytes": 231457, "saved": 70949, "pois": 1482, "sec": 39.1}
+{"ts": "2026-11-11 18:45:43", "city": "Homyel'", "id": "627907", "status": 200, "endpoint": "overpass-api.de", "bytes": 378453, "saved": 51243, "pois": 1088, "sec": 45.5}
+{"ts": "2026-11-11 18:47:57", "city": "Aktobe", "id": "610611", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 18:49:28", "city": "Kota Kinabalu", "id": "1733432", "status": 200, "endpoint": "maps.mail.ru", "bytes": 341530, "saved": 72280, "pois": 1523, "sec": 29.3}
+{"ts": "2026-11-11 18:49:55", "city": "Santa Marta", "id": "3668605", "status": 200, "endpoint": "maps.mail.ru", "bytes": 154466, "saved": 40298, "pois": 851, "sec": 20.4}
+{"ts": "2026-11-11 18:51:38", "city": "Karagandy", "id": "609655", "status": 200, "endpoint": "overpass-api.de", "bytes": 93666, "saved": 24117, "pois": 519, "sec": 34.5}
+{"ts": "2026-11-11 18:52:09", "city": "Sha Tin", "id": "1818920", "status": 200, "endpoint": "maps.mail.ru", "bytes": 2345803, "saved": 348986, "pois": 7202, "sec": 28.8}
+{"ts": "2026-11-11 18:52:39", "city": "Cagayan de Oro", "id": "1721080", "status": 200, "endpoint": "maps.mail.ru", "bytes": 168936, "saved": 34658, "pois": 722, "sec": 23.9}
+{"ts": "2026-11-11 18:53:12", "city": "Shah Alam", "id": "1732903", "status": 200, "endpoint": "maps.mail.ru", "bytes": 521837, "saved": 127086, "pois": 2612, "sec": 27.0}
+{"ts": "2026-11-11 18:55:09", "city": "Bagcilar", "id": "751324", "status": 200, "endpoint": "overpass-api.de", "bytes": 2344536, "saved": 477393, "pois": 10184, "sec": 102.1}
+{"ts": "2026-11-11 18:55:36", "city": "Gaborone", "id": "933773", "status": 200, "endpoint": "maps.mail.ru", "bytes": 64228, "saved": 18519, "pois": 386, "sec": 25.4}
+{"ts": "2026-11-11 18:57:25", "city": "Monteria", "id": "3674453", "status": 200, "endpoint": "overpass-api.de", "bytes": 48416, "saved": 16889, "pois": 366, "sec": 36.1}
+{"ts": "2026-11-11 18:58:21", "city": "Valledupar", "id": "3666304", "status": 200, "endpoint": "maps.mail.ru", "bytes": 49112, "saved": 14453, "pois": 304, "sec": 53.8}
+{"ts": "2026-11-11 19:00:11", "city": "Ajman", "id": "292932", "status": 200, "endpoint": "overpass-api.de", "bytes": 403583, "saved": 99932, "pois": 2085, "sec": 46.1}
+{"ts": "2026-11-11 19:00:56", "city": "Port Sudan", "id": "377039", "status": 200, "endpoint": "overpass-api.de", "bytes": 21750, "saved": 6535, "pois": 127, "sec": 41.4}
+{"ts": "2026-11-11 19:01:55", "city": "Kikolo", "id": "7758790", "status": 200, "endpoint": "overpass-api.de", "bytes": 38667, "saved": 7852, "pois": 161, "sec": 56.6}
+{"ts": "2026-11-11 19:04:11", "city": "Maianga", "id": "2239888", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 19:04:59", "city": "Evaton", "id": "1004866", "status": 200, "endpoint": "overpass-api.de", "bytes": 5711, "saved": 1447, "pois": 33, "sec": 45.0}
+{"ts": "2026-11-11 19:06:58", "city": "Valenzuela", "id": "1680102", "status": 200, "endpoint": "overpass-api.de", "bytes": 652547, "saved": 148623, "pois": 3037, "sec": 53.1}
+{"ts": "2026-11-11 19:07:20", "city": "Jijiga", "id": "333795", "status": 200, "endpoint": "maps.mail.ru", "bytes": 23384, "saved": 6896, "pois": 144, "sec": 19.9}
+{"ts": "2026-11-11 19:07:48", "city": "Najaf", "id": "98860", "status": 200, "endpoint": "maps.mail.ru", "bytes": 624654, "saved": 171209, "pois": 3532, "sec": 25.7}
+{"ts": "2026-11-11 19:11:49", "city": "General Santos", "id": "1713022", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 19:13:32", "city": "Mississauga", "id": "6075357", "status": 200, "endpoint": "overpass-api.de", "bytes": 665037, "saved": 125605, "pois": 2669, "sec": 48.9}
+{"ts": "2026-11-11 19:14:16", "city": "Yazd", "id": "111822", "status": 200, "endpoint": "overpass-api.de", "bytes": 171244, "saved": 40518, "pois": 845, "sec": 41.0}
+{"ts": "2026-11-11 19:16:30", "city": "Hargeysa", "id": "57289", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 19:17:15", "city": "Eldoret", "id": "198629", "status": 200, "endpoint": "overpass-api.de", "bytes": 31548, "saved": 8642, "pois": 175, "sec": 42.7}
+{"ts": "2026-11-11 19:17:36", "city": "Podgorica", "id": "3193044", "status": 200, "endpoint": "maps.mail.ru", "bytes": 218640, "saved": 38134, "pois": 813, "sec": 18.7}
+{"ts": "2026-11-11 19:20:15", "city": "Murcia", "id": "2513416", "status": 200, "endpoint": "overpass-api.de", "bytes": 334234, "saved": 93997, "pois": 2035, "sec": 52.2}
+{"ts": "2026-11-11 19:21:01", "city": "Halifax", "id": "6324729", "status": 200, "endpoint": "overpass-api.de", "bytes": 831636, "saved": 106636, "pois": 2294, "sec": 41.6}
+{"ts": "2026-11-11 19:21:47", "city": "Morogoro", "id": "153220", "status": 200, "endpoint": "overpass-api.de", "bytes": 142438, "saved": 28384, "pois": 570, "sec": 43.5}
+{"ts": "2026-11-11 19:22:59", "city": "Kenitra", "id": "2544571", "status": 200, "endpoint": "overpass-api.de", "bytes": 77769, "saved": 24220, "pois": 500, "sec": 63.6}
+{"ts": "2026-11-11 19:23:54", "city": "Georgetown", "id": "3378644", "status": 200, "endpoint": "overpass-api.de", "bytes": 149090, "saved": 41415, "pois": 860, "sec": 53.2}
+{"ts": "2026-11-11 19:24:42", "city": "Mykolayiv", "id": "700569", "status": 200, "endpoint": "overpass-api.de", "bytes": 271424, "saved": 50628, "pois": 1097, "sec": 41.8}
+{"ts": "2026-11-11 19:26:39", "city": "Paranaque City", "id": "1694781", "status": 200, "endpoint": "overpass-api.de", "bytes": 1654974, "saved": 312311, "pois": 6506, "sec": 50.8}
+{"ts": "2026-11-11 19:27:13", "city": "Santo Domingo Oeste", "id": "7874116", "status": 200, "endpoint": "maps.mail.ru", "bytes": 403746, "saved": 102748, "pois": 2166, "sec": 31.5}
+{"ts": "2026-11-11 19:27:45", "city": "Pereira", "id": "3672486", "status": 200, "endpoint": "maps.mail.ru", "bytes": 288935, "saved": 59877, "pois": 1265, "sec": 25.9}
+{"ts": "2026-11-11 19:28:46", "city": "Battagram", "id": "1183105", "status": 200, "endpoint": "maps.mail.ru", "bytes": 1988, "saved": 471, "pois": 9, "sec": 59.3}
+{"ts": "2026-11-11 19:29:08", "city": "Maracay", "id": "3632998", "status": 200, "endpoint": "maps.mail.ru", "bytes": 62724, "saved": 17155, "pois": 376, "sec": 19.3}
+{"ts": "2026-11-11 19:29:32", "city": "Tamale", "id": "2294877", "status": 200, "endpoint": "maps.mail.ru", "bytes": 60230, "saved": 21078, "pois": 398, "sec": 21.9}
+{"ts": "2026-11-11 19:29:58", "city": "Hamah", "id": "170017", "status": 200, "endpoint": "maps.mail.ru", "bytes": 82515, "saved": 26634, "pois": 532, "sec": 24.4}
+{"ts": "2026-11-11 19:30:23", "city": "Rach Gia", "id": "1568510", "status": 200, "endpoint": "maps.mail.ru", "bytes": 28384, "saved": 9362, "pois": 195, "sec": 23.3}
+{"ts": "2026-11-11 19:30:45", "city": "Ta'if", "id": "107968", "status": 200, "endpoint": "maps.mail.ru", "bytes": 98599, "saved": 30109, "pois": 602, "sec": 20.0}
+{"ts": "2026-11-11 19:31:17", "city": "Santo Domingo de los Colorados", "id": "3651297", "status": 200, "endpoint": "maps.mail.ru", "bytes": 128854, "saved": 34285, "pois": 717, "sec": 25.4}
+{"ts": "2026-11-11 19:31:38", "city": "Hlaingthaya", "id": "8740157", "status": 200, "endpoint": "maps.mail.ru", "bytes": 362535, "saved": 93168, "pois": 1901, "sec": 19.3}
+{"ts": "2026-11-11 19:32:19", "city": "Tartus", "id": "163345", "status": 200, "endpoint": "maps.mail.ru", "bytes": 65562, "saved": 22346, "pois": 470, "sec": 34.4}
+{"ts": "2026-11-11 19:32:44", "city": "Mek'ele", "id": "331180", "status": 200, "endpoint": "maps.mail.ru", "bytes": 74936, "saved": 22623, "pois": 474, "sec": 22.5}
+{"ts": "2026-11-11 19:34:12", "city": "Huancayo", "id": "3939459", "status": 200, "endpoint": "maps.mail.ru", "bytes": 175080, "saved": 41392, "pois": 873, "sec": 25.2}
+{"ts": "2026-11-11 19:36:08", "city": "Nassau", "id": "3571824", "status": 200, "endpoint": "overpass-api.de", "bytes": 143040, "saved": 35490, "pois": 721, "sec": 44.9}
+{"ts": "2026-11-11 19:36:57", "city": "Al Hillah", "id": "99347", "status": 200, "endpoint": "overpass-api.de", "bytes": 120782, "saved": 34481, "pois": 718, "sec": 42.3}
+{"ts": "2026-11-11 19:37:45", "city": "Mbandaka", "id": "2312895", "status": 200, "endpoint": "overpass-api.de", "bytes": 43633, "saved": 11169, "pois": 211, "sec": 44.7}
+{"ts": "2026-11-11 19:38:21", "city": "Malanje", "id": "2239862", "status": 200, "endpoint": "overpass-api.de", "bytes": 3189, "saved": 708, "pois": 14, "sec": 34.3}
+{"ts": "2026-11-11 19:40:34", "city": "Namp'o", "id": "1873757", "status": 0, "error": "overpass.kumi.systems: HTTP 504"}
+{"ts": "2026-11-11 19:42:25", "city": "Cotonou", "id": "2394819", "status": 0, "error": "overpass-api.de: HTTP 502"}
+{"ts": "2026-11-11 19:42:53", "city": "Sucre", "id": "3903987", "status": 200, "endpoint": "maps.mail.ru", "bytes": 149030, "saved": 32908, "pois": 693, "sec": 25.2}
+{"ts": "2026-11-11 19:43:07", "city": "Nam GJinh", "id": "1573517", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-11 19:43:30", "city": "Constantine", "id": "2501152", "status": 200, "endpoint": "maps.mail.ru", "bytes": 83495, "saved": 20517, "pois": 423, "sec": 21.1}
+{"ts": "2026-11-11 19:43:45", "city": "Paramaribo", "id": "3383330", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-11 19:44:11", "city": "Camama", "id": "2591957", "status": 200, "endpoint": "maps.mail.ru", "bytes": 132471, "saved": 34203, "pois": 715, "sec": 23.8}
+{"ts": "2026-11-11 19:45:57", "city": "Kitwe", "id": "911148", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-11 19:48:01", "city": "Korhogo", "id": "2286304", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 19:48:44", "city": "Cheonan", "id": "1845759", "status": 200, "endpoint": "overpass-api.de", "bytes": 223943, "saved": 51629, "pois": 1084, "sec": 41.2}
+{"ts": "2026-11-11 19:49:50", "city": "Mawlamyine", "id": "1308465", "status": 0, "error": "overpass-api.de: HTTP 504"}
+{"ts": "2026-11-11 19:51:36", "city": "Palma", "id": "2512989", "status": 200, "endpoint": "overpass.kumi.systems", "bytes": 747150, "saved": 177755, "pois": 3770, "sec": 103.2}
+{"ts": "2026-11-11 19:53:40", "city": "Brampton", "id": "5907364", "status": 200, "endpoint": "overpass.kumi.systems", "bytes": 349862, "saved": 78136, "pois": 1688, "sec": 108.7}
+{"ts": "2026-11-11 19:55:45", "city": "Golfe", "id": "2591953", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 19:56:27", "city": "Soacha", "id": "3667905", "status": 200, "endpoint": "overpass-api.de", "bytes": 372648, "saved": 127486, "pois": 2815, "sec": 39.6}
+{"ts": "2026-11-11 19:56:40", "city": "Calumbo", "id": "2242906", "status": 0, "error": "overpass-api.de: HTTP 502"}
+{"ts": "2026-11-11 19:56:43", "city": "Manizales", "id": "3675443", "status": 0, "error": "overpass-api.de: HTTP 502"}
+{"ts": "2026-11-11 19:59:15", "city": "Buon Ma Thuot", "id": "1586896", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 19:59:29", "city": "Frankfurt am Main", "id": "2925533", "status": 0, "error": "maps.mail.ru: HTTP 504"}
+{"ts": "2026-11-11 19:59:32", "city": "Tel Aviv", "id": "293397", "status": 0, "error": "maps.mail.ru: HTTP 504"}
+{"ts": "2026-11-11 19:59:49", "city": "Sham Shui Po", "id": "1818953", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-11 19:59:52", "city": "Zagazig", "id": "359493", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-11 19:59:55", "city": "Vinnytsya", "id": "689558", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-11 20:01:26", "city": "Ismailia", "id": "361055", "status": 200, "endpoint": "overpass-api.de", "bytes": 22922, "saved": 8175, "pois": 172, "sec": 39.9}
+{"ts": "2026-11-11 20:02:14", "city": "Hoji ya Henda", "id": "13631351", "status": 200, "endpoint": "overpass-api.de", "bytes": 168537, "saved": 37926, "pois": 799, "sec": 42.0}
+{"ts": "2026-11-11 20:03:04", "city": "Hwaseong-si", "id": "1843847", "status": 200, "endpoint": "overpass-api.de", "bytes": 54864, "saved": 12106, "pois": 252, "sec": 47.9}
+{"ts": "2026-11-11 20:03:51", "city": "Gold Coast", "id": "2165087", "status": 200, "endpoint": "overpass-api.de", "bytes": 472802, "saved": 126883, "pois": 2700, "sec": 44.6}
+{"ts": "2026-11-11 20:04:11", "city": "Sumgayit", "id": "584923", "status": 200, "endpoint": "maps.mail.ru", "bytes": 131515, "saved": 44865, "pois": 968, "sec": 18.3}
+{"ts": "2026-11-11 20:04:40", "city": "Kuala Terengganu", "id": "1734705", "status": 200, "endpoint": "maps.mail.ru", "bytes": 78900, "saved": 20582, "pois": 419, "sec": 26.4}
+{"ts": "2026-11-11 20:07:54", "city": "Matadi", "id": "2313002", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 20:09:56", "city": "Wong Tai Sin", "id": "1818304", "status": 200, "endpoint": "overpass-api.de", "bytes": 3313800, "saved": 470322, "pois": 9787, "sec": 60.9}
+{"ts": "2026-11-11 20:10:47", "city": "Likasi", "id": "922741", "status": 200, "endpoint": "overpass-api.de", "bytes": 1599, "saved": 541, "pois": 11, "sec": 47.9}
+{"ts": "2026-11-11 20:13:01", "city": "Comilla", "id": "1185186", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 20:13:22", "city": "Tshikapa", "id": "204953", "status": 200, "endpoint": "maps.mail.ru", "bytes": 25762, "saved": 6370, "pois": 118, "sec": 19.8}
+{"ts": "2026-11-11 20:14:31", "city": "Chunian", "id": "1180942", "status": 200, "endpoint": "maps.mail.ru", "bytes": 1338, "saved": 368, "pois": 7, "sec": 17.7}
+{"ts": "2026-11-11 20:14:52", "city": "Al Hasakah", "id": "173811", "status": 200, "endpoint": "maps.mail.ru", "bytes": 24204, "saved": 8062, "pois": 161, "sec": 19.5}
+{"ts": "2026-11-11 20:15:11", "city": "Awasa", "id": "343137", "status": 200, "endpoint": "maps.mail.ru", "bytes": 40366, "saved": 12162, "pois": 251, "sec": 17.0}
+{"ts": "2026-11-11 20:16:55", "city": "Chimoio", "id": "1049261", "status": 200, "endpoint": "overpass-api.de", "bytes": 7022, "saved": 2299, "pois": 48, "sec": 41.1}
+{"ts": "2026-11-11 20:17:22", "city": "Daloa", "id": "2290486", "status": 200, "endpoint": "maps.mail.ru", "bytes": 142917, "saved": 55283, "pois": 1133, "sec": 24.9}
+{"ts": "2026-11-11 20:17:48", "city": "Bamenda", "id": "2234974", "status": 200, "endpoint": "maps.mail.ru", "bytes": 12852, "saved": 3322, "pois": 67, "sec": 23.9}
+{"ts": "2026-11-11 20:18:11", "city": "Thai Nguyen", "id": "1566319", "status": 200, "endpoint": "maps.mail.ru", "bytes": 26261, "saved": 6995, "pois": 141, "sec": 16.9}
+{"ts": "2026-11-11 20:19:06", "city": "Alor Setar", "id": "1736309", "status": 200, "endpoint": "overpass-api.de", "bytes": 173064, "saved": 42908, "pois": 868, "sec": 40.0}
+{"ts": "2026-11-11 20:19:32", "city": "Ansan-si", "id": "1846918", "status": 200, "endpoint": "maps.mail.ru", "bytes": 293689, "saved": 66234, "pois": 1391, "sec": 24.2}
+{"ts": "2026-11-11 20:20:24", "city": "Viet Tri", "id": "1562820", "status": 200, "endpoint": "overpass-api.de", "bytes": 16552, "saved": 5734, "pois": 119, "sec": 38.0}
+{"ts": "2026-11-11 20:20:43", "city": "Ciudad Bolivar", "id": "3645532", "status": 200, "endpoint": "maps.mail.ru", "bytes": 151334, "saved": 32796, "pois": 656, "sec": 16.3}
+{"ts": "2026-11-11 20:21:13", "city": "Villa Nueva", "id": "3587902", "status": 200, "endpoint": "maps.mail.ru", "bytes": 209464, "saved": 67577, "pois": 1461, "sec": 24.1}
+{"ts": "2026-11-11 20:22:23", "city": "Ardabil", "id": "143083", "status": 200, "endpoint": "maps.mail.ru", "bytes": 233579, "saved": 74386, "pois": 1632, "sec": 14.4}
+{"ts": "2026-11-11 20:22:47", "city": "Las Pinas", "id": "1707174", "status": 200, "endpoint": "maps.mail.ru", "bytes": 1195243, "saved": 223740, "pois": 4636, "sec": 22.4}
+{"ts": "2026-11-11 20:24:01", "city": "Gaza", "id": "281133", "status": 200, "endpoint": "maps.mail.ru", "bytes": 389190, "saved": 92646, "pois": 1879, "sec": 22.2}
+{"ts": "2026-11-11 20:24:18", "city": "Cumana", "id": "3644768", "status": 200, "endpoint": "maps.mail.ru", "bytes": 36029, "saved": 8705, "pois": 188, "sec": 14.8}
+{"ts": "2026-11-11 20:24:38", "city": "Bukit Rahman Putra", "id": "13118225", "status": 200, "endpoint": "maps.mail.ru", "bytes": 265741, "saved": 66150, "pois": 1344, "sec": 17.7}
+{"ts": "2026-11-11 20:26:02", "city": "Jhang Sadr", "id": "1175892", "status": 200, "endpoint": "maps.mail.ru", "bytes": 4520, "saved": 1259, "pois": 25, "sec": 20.1}
+{"ts": "2026-11-11 20:27:32", "city": "Brno", "id": "3078610", "status": 200, "endpoint": "maps.mail.ru", "bytes": 1969290, "saved": 351016, "pois": 7290, "sec": 40.4}
+{"ts": "2026-11-11 20:27:56", "city": "Benoni", "id": "1020098", "status": 200, "endpoint": "maps.mail.ru", "bytes": 55788, "saved": 16513, "pois": 348, "sec": 18.6}
+{"ts": "2026-11-11 20:28:51", "city": "Kuching", "id": "1735634", "status": 200, "endpoint": "overpass-api.de", "bytes": 231033, "saved": 63288, "pois": 1322, "sec": 39.9}
+{"ts": "2026-11-11 20:29:42", "city": "Kryvyy Rih", "id": "703845", "status": 200, "endpoint": "overpass-api.de", "bytes": 197591, "saved": 41997, "pois": 899, "sec": 46.7}
+{"ts": "2026-11-11 20:30:31", "city": "Kassala", "id": "372753", "status": 200, "endpoint": "overpass-api.de", "bytes": 18982, "saved": 6103, "pois": 115, "sec": 41.3}
+{"ts": "2026-11-11 20:31:14", "city": "Antofagasta", "id": "3899539", "status": 200, "endpoint": "overpass-api.de", "bytes": 111412, "saved": 26163, "pois": 559, "sec": 41.4}
+{"ts": "2026-11-11 20:35:29", "city": "Bunia", "id": "217695", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 20:36:02", "city": "Borama", "id": "64021", "status": 200, "endpoint": "maps.mail.ru", "bytes": 2826, "saved": 727, "pois": 15, "sec": 30.9}
+{"ts": "2026-11-11 20:38:35", "city": "Kisumu", "id": "191245", "status": 200, "endpoint": "overpass-api.de", "bytes": 92915, "saved": 28448, "pois": 566, "sec": 49.4}
+{"ts": "2026-11-11 20:39:29", "city": "Luhansk", "id": "702658", "status": 200, "endpoint": "overpass-api.de", "bytes": 143070, "saved": 26974, "pois": 576, "sec": 49.2}
+{"ts": "2026-11-11 20:40:13", "city": "Barinas", "id": "3648546", "status": 200, "endpoint": "overpass-api.de", "bytes": 32196, "saved": 9767, "pois": 209, "sec": 41.2}
+{"ts": "2026-11-11 20:40:53", "city": "Anyang-si", "id": "1846898", "status": 200, "endpoint": "overpass-api.de", "bytes": 760121, "saved": 143625, "pois": 2958, "sec": 38.0}
+{"ts": "2026-11-11 20:41:37", "city": "Mar del Plata", "id": "3430863", "status": 200, "endpoint": "overpass-api.de", "bytes": 251790, "saved": 72177, "pois": 1554, "sec": 41.5}
+{"ts": "2026-11-11 20:42:36", "city": "Szczecin", "id": "3083829", "status": 200, "endpoint": "overpass-api.de", "bytes": 641673, "saved": 135391, "pois": 2840, "sec": 57.3}
+{"ts": "2026-11-11 20:43:49", "city": "Essen", "id": "2928810", "status": 200, "endpoint": "overpass-api.de", "bytes": 3451009, "saved": 478559, "pois": 9825, "sec": 70.9}
+{"ts": "2026-11-11 20:45:01", "city": "Al Mahallah al Kubra", "id": "360829", "status": 200, "endpoint": "maps.mail.ru", "bytes": 7230, "saved": 1658, "pois": 32, "sec": 19.4}
+{"ts": "2026-11-11 20:46:05", "city": "Malaga", "id": "2514256", "status": 200, "endpoint": "overpass-api.de", "bytes": 2281798, "saved": 563788, "pois": 12197, "sec": 49.1}
+{"ts": "2026-11-11 20:46:53", "city": "Tanga", "id": "149606", "status": 200, "endpoint": "overpass-api.de", "bytes": 140250, "saved": 48330, "pois": 1002, "sec": 43.7}
+{"ts": "2026-11-11 20:47:32", "city": "El Obeid", "id": "379003", "status": 200, "endpoint": "overpass-api.de", "bytes": 5103, "saved": 1115, "pois": 23, "sec": 35.8}
+{"ts": "2026-11-11 20:50:38", "city": "Saurimo", "id": "145531", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 20:51:35", "city": "Pasto", "id": "3672778", "status": 200, "endpoint": "overpass-api.de", "bytes": 106163, "saved": 30684, "pois": 652, "sec": 44.1}
+{"ts": "2026-11-11 20:52:40", "city": "Thuan An", "id": "12382296", "status": 0, "error": "overpass-api.de: HTTP 502"}
+{"ts": "2026-11-11 20:53:33", "city": "Dortmund", "id": "2935517", "status": 200, "endpoint": "overpass-api.de", "bytes": 1982495, "saved": 296516, "pois": 6126, "sec": 49.7}
+{"ts": "2026-11-11 20:54:16", "city": "Santa Fe", "id": "3836277", "status": 200, "endpoint": "overpass-api.de", "bytes": 144473, "saved": 36636, "pois": 781, "sec": 39.9}
+{"ts": "2026-11-11 20:54:53", "city": "San-Pedro", "id": "2282006", "status": 200, "endpoint": "overpass-api.de", "bytes": 160999, "saved": 63795, "pois": 1335, "sec": 35.2}
+{"ts": "2026-11-11 20:55:34", "city": "Pelentong", "id": "1732747", "status": 200, "endpoint": "overpass-api.de", "bytes": 411964, "saved": 91850, "pois": 1890, "sec": 39.2}
+{"ts": "2026-11-11 20:56:15", "city": "Samut Prakan", "id": "1606590", "status": 200, "endpoint": "overpass-api.de", "bytes": 203222, "saved": 47454, "pois": 962, "sec": 38.9}
+{"ts": "2026-11-11 20:57:07", "city": "Ambato", "id": "3660689", "status": 200, "endpoint": "overpass-api.de", "bytes": 175603, "saved": 53540, "pois": 1133, "sec": 46.1}
+{"ts": "2026-11-11 20:57:37", "city": "Iskandar Puteri", "id": "10063567", "status": 200, "endpoint": "maps.mail.ru", "bytes": 99262, "saved": 24176, "pois": 505, "sec": 28.4}
+{"ts": "2026-11-11 20:58:06", "city": "Las Palmas de Gran Canaria", "id": "2515270", "status": 200, "endpoint": "maps.mail.ru", "bytes": 755876, "saved": 294365, "pois": 6439, "sec": 26.8}
+{"ts": "2026-11-11 20:58:27", "city": "Cotabato", "id": "1716771", "status": 200, "endpoint": "maps.mail.ru", "bytes": 37065, "saved": 9276, "pois": 188, "sec": 18.9}
+{"ts": "2026-11-11 21:00:08", "city": "Hamilton", "id": "5969782", "status": 200, "endpoint": "overpass-api.de", "bytes": 543373, "saved": 110407, "pois": 2316, "sec": 37.2}
+{"ts": "2026-11-11 21:05:14", "city": "Manchester", "id": "2643123", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 21:06:11", "city": "Iasi", "id": "675810", "status": 200, "endpoint": "overpass-api.de", "bytes": 297286, "saved": 63335, "pois": 1316, "sec": 42.1}
+{"ts": "2026-11-11 21:07:45", "city": "Surrey", "id": "6159905", "status": 200, "endpoint": "overpass-api.de", "bytes": 544902, "saved": 106685, "pois": 2273, "sec": 32.6}
+{"ts": "2026-11-11 21:08:31", "city": "Meknes", "id": "2542715", "status": 200, "endpoint": "overpass-api.de", "bytes": 177227, "saved": 55913, "pois": 1154, "sec": 39.8}
+{"ts": "2026-11-11 21:09:26", "city": "Puente Alto", "id": "3875024", "status": 200, "endpoint": "overpass-api.de", "bytes": 301734, "saved": 93553, "pois": 2042, "sec": 52.5}
+{"ts": "2026-11-11 21:10:08", "city": "Iquitos", "id": "3696183", "status": 200, "endpoint": "overpass-api.de", "bytes": 60222, "saved": 16629, "pois": 356, "sec": 40.4}
+{"ts": "2026-11-11 21:11:17", "city": "Utrecht", "id": "2745912", "status": 200, "endpoint": "overpass-api.de", "bytes": 1601802, "saved": 228358, "pois": 4801, "sec": 60.0}
+{"ts": "2026-11-11 21:11:43", "city": "Bafoussam", "id": "2235189", "status": 200, "endpoint": "maps.mail.ru", "bytes": 38512, "saved": 11737, "pois": 238, "sec": 24.2}
+{"ts": "2026-11-11 21:12:07", "city": "Thu Dau Mot", "id": "1565022", "status": 200, "endpoint": "maps.mail.ru", "bytes": 66249, "saved": 16278, "pois": 330, "sec": 22.3}
+{"ts": "2026-11-11 21:12:30", "city": "Seremban", "id": "1734810", "status": 200, "endpoint": "maps.mail.ru", "bytes": 116922, "saved": 29775, "pois": 603, "sec": 20.9}
+{"ts": "2026-11-11 21:14:26", "city": "Cardiff", "id": "2653822", "status": 200, "endpoint": "overpass-api.de", "bytes": 768868, "saved": 163757, "pois": 3497, "sec": 53.6}
+{"ts": "2026-11-11 21:15:16", "city": "Sheffield", "id": "2638077", "status": 200, "endpoint": "overpass-api.de", "bytes": 1467449, "saved": 308341, "pois": 6537, "sec": 45.3}
+{"ts": "2026-11-11 21:16:02", "city": "Balbala", "id": "7648070", "status": 200, "endpoint": "overpass-api.de", "bytes": 76618, "saved": 16235, "pois": 336, "sec": 40.9}
+{"ts": "2026-11-11 21:17:05", "city": "Muntinlupa", "id": "1699076", "status": 200, "endpoint": "overpass-api.de", "bytes": 667506, "saved": 120511, "pois": 2494, "sec": 60.5}
+{"ts": "2026-11-11 21:18:17", "city": "Banqiao", "id": "1670029", "status": 200, "endpoint": "overpass-api.de", "bytes": 6538015, "saved": 1088784, "pois": 22391, "sec": 65.8}
+{"ts": "2026-11-11 21:19:49", "city": "Al Qadarif", "id": "379062", "status": 200, "endpoint": "overpass.kumi.systems", "bytes": 4874, "saved": 1456, "pois": 29, "sec": 79.3}
+{"ts": "2026-11-11 21:20:45", "city": "Hrodna", "id": "627904", "status": 200, "endpoint": "maps.mail.ru", "bytes": 576394, "saved": 81710, "pois": 1696, "sec": 53.9}
+{"ts": "2026-11-11 21:21:07", "city": "Kota Kuala Muda", "id": "6847550", "status": 200, "endpoint": "maps.mail.ru", "bytes": 23357, "saved": 6360, "pois": 124, "sec": 15.9}
+{"ts": "2026-11-11 21:21:33", "city": "Sungai Petani", "id": "1735498", "status": 200, "endpoint": "maps.mail.ru", "bytes": 85789, "saved": 24743, "pois": 512, "sec": 24.2}
+{"ts": "2026-11-11 21:22:09", "city": "Malmoe", "id": "2692969", "status": 200, "endpoint": "maps.mail.ru", "bytes": 677073, "saved": 138232, "pois": 2860, "sec": 34.3}
+{"ts": "2026-11-11 21:23:10", "city": "Maradi", "id": "2441291", "status": 200, "endpoint": "overpass-api.de", "bytes": 22727, "saved": 7096, "pois": 138, "sec": 46.0}
+{"ts": "2026-11-11 21:24:52", "city": "Selayang Baru Utara", "id": "7795834", "status": 200, "endpoint": "overpass-api.de", "bytes": 436879, "saved": 87385, "pois": 1753, "sec": 44.0}
+{"ts": "2026-11-11 21:26:33", "city": "Vitebsk", "id": "620127", "status": 200, "endpoint": "overpass-api.de", "bytes": 403528, "saved": 59797, "pois": 1257, "sec": 45.6}
+{"ts": "2026-11-11 21:27:15", "city": "Taraz", "id": "1516905", "status": 200, "endpoint": "overpass-api.de", "bytes": 61558, "saved": 17835, "pois": 377, "sec": 39.9}
+{"ts": "2026-11-11 21:29:28", "city": "Leeds", "id": "2644688", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 21:29:51", "city": "Zanjan", "id": "111453", "status": 200, "endpoint": "maps.mail.ru", "bytes": 97323, "saved": 33422, "pois": 715, "sec": 20.6}
+{"ts": "2026-11-11 21:30:16", "city": "Neiva", "id": "3673899", "status": 200, "endpoint": "maps.mail.ru", "bytes": 53136, "saved": 18791, "pois": 419, "sec": 23.4}
+{"ts": "2026-11-11 21:31:09", "city": "Tete", "id": "1026014", "status": 200, "endpoint": "maps.mail.ru", "bytes": 10846, "saved": 3734, "pois": 78, "sec": 50.4}
+{"ts": "2026-11-11 21:34:20", "city": "Misratah", "id": "2214846", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 21:34:24", "city": "Cuito", "id": "3348078", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-11 21:34:27", "city": "Nansana", "id": "10943053", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-11 21:37:14", "city": "Kyzylorda", "id": "1519922", "status": 200, "endpoint": "overpass.kumi.systems", "bytes": 26982, "saved": 8643, "pois": 189, "sec": 84.1}
+{"ts": "2026-11-11 21:38:01", "city": "Mahilyow", "id": "625665", "status": 200, "endpoint": "overpass-api.de", "bytes": 228977, "saved": 39475, "pois": 825, "sec": 44.8}
+{"ts": "2026-11-11 21:42:11", "city": "Bandar Abbas", "id": "141681", "status": 0, "error": "overpass.kumi.systems: HTTP 504"}
+{"ts": "2026-11-11 21:43:18", "city": "Ras Al Khaimah", "id": "291074", "status": 200, "endpoint": "maps.mail.ru", "bytes": 82904, "saved": 26560, "pois": 523, "sec": 15.1}
+{"ts": "2026-11-11 21:46:16", "city": "Mohammadpur", "id": "1194041", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 21:46:41", "city": "Bahir Dar", "id": "342884", "status": 200, "endpoint": "maps.mail.ru", "bytes": 59914, "saved": 16517, "pois": 338, "sec": 23.4}
+{"ts": "2026-11-11 21:46:56", "city": "Quelimane", "id": "1028434", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-11 21:47:01", "city": "Thu GJuc", "id": "1565019", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-11 21:49:44", "city": "Sikasso", "id": "2451185", "status": 0, "error": "overpass.kumi.systems: HTTP 504"}
+{"ts": "2026-11-11 21:50:24", "city": "Sanandaj", "id": "117574", "status": 200, "endpoint": "overpass-api.de", "bytes": 72164, "saved": 19210, "pois": 398, "sec": 38.5}
+{"ts": "2026-11-11 21:51:02", "city": "Bimbo", "id": "2388873", "status": 0, "error": "overpass-api.de: 返回 0 条"}
+{"ts": "2026-11-11 21:51:30", "city": "Camagueey", "id": "3566067", "status": 200, "endpoint": "maps.mail.ru", "bytes": 150378, "saved": 41699, "pois": 865, "sec": 22.2}
+{"ts": "2026-11-11 21:51:57", "city": "Brest", "id": "629634", "status": 200, "endpoint": "maps.mail.ru", "bytes": 551542, "saved": 87881, "pois": 1837, "sec": 20.2}
+{"ts": "2026-11-11 21:52:26", "city": "Corrientes", "id": "3435217", "status": 200, "endpoint": "maps.mail.ru", "bytes": 272800, "saved": 51959, "pois": 1100, "sec": 22.9}
+{"ts": "2026-11-11 21:54:06", "city": "Toamasina", "id": "1053384", "status": 200, "endpoint": "overpass-api.de", "bytes": 37638, "saved": 11355, "pois": 235, "sec": 38.1}
+{"ts": "2026-11-11 21:54:29", "city": "Dire Dawa", "id": "338832", "status": 200, "endpoint": "maps.mail.ru", "bytes": 21536, "saved": 6238, "pois": 132, "sec": 20.8}
+{"ts": "2026-11-11 21:56:19", "city": "Annaba", "id": "2506999", "status": 200, "endpoint": "overpass-api.de", "bytes": 56129, "saved": 14035, "pois": 286, "sec": 43.1}
+{"ts": "2026-11-11 21:57:11", "city": "Thembisa", "id": "949880", "status": 200, "endpoint": "overpass-api.de", "bytes": 35397, "saved": 9485, "pois": 200, "sec": 47.6}
+{"ts": "2026-11-11 21:57:52", "city": "Dihok", "id": "96994", "status": 200, "endpoint": "overpass-api.de", "bytes": 327782, "saved": 65194, "pois": 1390, "sec": 35.8}
+{"ts": "2026-11-11 22:01:45", "city": "Carrefour", "id": "6201369", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 22:02:17", "city": "Makati City", "id": "1703417", "status": 200, "endpoint": "maps.mail.ru", "bytes": 2767607, "saved": 531392, "pois": 11055, "sec": 29.9}
+{"ts": "2026-11-11 22:02:42", "city": "Kikwit", "id": "2314705", "status": 200, "endpoint": "maps.mail.ru", "bytes": 6188, "saved": 1817, "pois": 34, "sec": 23.2}
+{"ts": "2026-11-11 22:04:35", "city": "Newcastle", "id": "2155472", "status": 200, "endpoint": "overpass-api.de", "bytes": 244938, "saved": 72529, "pois": 1559, "sec": 50.5}
+{"ts": "2026-11-11 22:05:30", "city": "Kaesong", "id": "1876373", "status": 200, "endpoint": "overpass-api.de", "bytes": 28162, "saved": 8525, "pois": 174, "sec": 46.9}
+{"ts": "2026-11-11 22:06:19", "city": "Leipzig", "id": "2879139", "status": 200, "endpoint": "overpass-api.de", "bytes": 3204856, "saved": 576499, "pois": 12324, "sec": 46.2}
+{"ts": "2026-11-11 22:07:11", "city": "Lublin", "id": "765876", "status": 200, "endpoint": "overpass-api.de", "bytes": 763939, "saved": 184033, "pois": 3835, "sec": 45.9}
+{"ts": "2026-11-11 22:08:01", "city": "Duisburg", "id": "2934691", "status": 200, "endpoint": "overpass-api.de", "bytes": 1831497, "saved": 282392, "pois": 5790, "sec": 48.3}
+{"ts": "2026-11-11 22:08:57", "city": "Maipu", "id": "3880980", "status": 200, "endpoint": "overpass-api.de", "bytes": 400974, "saved": 115135, "pois": 2498, "sec": 54.2}
+{"ts": "2026-11-11 22:09:32", "city": "Talatona", "id": "2591976", "status": 200, "endpoint": "maps.mail.ru", "bytes": 163225, "saved": 42431, "pois": 896, "sec": 33.1}
+{"ts": "2026-11-11 22:10:26", "city": "Wad Medani", "id": "364103", "status": 200, "endpoint": "overpass-api.de", "bytes": 14623, "saved": 4378, "pois": 82, "sec": 38.3}
+{"ts": "2026-11-11 22:12:15", "city": "Nukus", "id": "601294", "status": 200, "endpoint": "overpass-api.de", "bytes": 255694, "saved": 42539, "pois": 920, "sec": 48.1}
+{"ts": "2026-11-11 22:12:54", "city": "Hathazari", "id": "1462674", "status": 200, "endpoint": "overpass-api.de", "bytes": 87228, "saved": 23315, "pois": 454, "sec": 35.6}
+{"ts": "2026-11-11 22:13:43", "city": "Blida", "id": "2503769", "status": 200, "endpoint": "overpass-api.de", "bytes": 91567, "saved": 23306, "pois": 479, "sec": 47.2}
+{"ts": "2026-11-11 22:14:24", "city": "Ganja", "id": "586523", "status": 200, "endpoint": "overpass-api.de", "bytes": 47125, "saved": 13307, "pois": 279, "sec": 38.3}
+{"ts": "2026-11-11 22:18:28", "city": "Bydgoszcz", "id": "3102014", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 22:19:21", "city": "Oral", "id": "608668", "status": 200, "endpoint": "overpass-api.de", "bytes": 140066, "saved": 35043, "pois": 745, "sec": 38.3}
+{"ts": "2026-11-11 22:20:58", "city": "Plovdiv", "id": "728193", "status": 200, "endpoint": "overpass-api.de", "bytes": 366523, "saved": 84292, "pois": 1784, "sec": 32.1}
+{"ts": "2026-11-11 22:21:41", "city": "Wonsan", "id": "1866923", "status": 200, "endpoint": "overpass-api.de", "bytes": 37441, "saved": 10081, "pois": 212, "sec": 39.2}
+{"ts": "2026-11-11 22:22:14", "city": "Pavlodar", "id": "1520240", "status": 200, "endpoint": "overpass-api.de", "bytes": 89176, "saved": 21381, "pois": 459, "sec": 31.4}
+{"ts": "2026-11-11 22:24:22", "city": "Chipata", "id": "918702", "status": 200, "endpoint": "overpass.kumi.systems", "bytes": 9799, "saved": 2706, "pois": 55, "sec": 115.0}
+{"ts": "2026-11-11 22:24:54", "city": "Chongjin", "id": "2044757", "status": 200, "endpoint": "maps.mail.ru", "bytes": 8733, "saved": 3102, "pois": 65, "sec": 30.4}
+{"ts": "2026-11-11 22:26:43", "city": "Ruiru", "id": "181032", "status": 200, "endpoint": "overpass.kumi.systems", "bytes": 53655, "saved": 14988, "pois": 305, "sec": 94.0}
+{"ts": "2026-11-11 22:28:48", "city": "Pucallpa", "id": "3693345", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 22:28:51", "city": "Al Khusus", "id": "360890", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-11 22:28:54", "city": "Nantes", "id": "2990969", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-11 22:29:59", "city": "Masina", "id": "2593460", "status": 200, "endpoint": "overpass-api.de", "bytes": 601724, "saved": 100216, "pois": 1931, "sec": 50.3}
+{"ts": "2026-11-11 22:30:43", "city": "Al 'Amarah", "id": "99608", "status": 200, "endpoint": "overpass-api.de", "bytes": 72169, "saved": 23088, "pois": 489, "sec": 41.7}
+{"ts": "2026-11-11 22:32:56", "city": "Uige", "id": "2236568", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 22:33:55", "city": "Osh", "id": "1527534", "status": 200, "endpoint": "overpass-api.de", "bytes": 109224, "saved": 24846, "pois": 517, "sec": 43.6}
+{"ts": "2026-11-11 22:34:21", "city": "Portoviejo", "id": "3652941", "status": 200, "endpoint": "maps.mail.ru", "bytes": 104087, "saved": 34929, "pois": 723, "sec": 24.1}
+{"ts": "2026-11-11 22:34:52", "city": "Villavicencio", "id": "3665900", "status": 200, "endpoint": "maps.mail.ru", "bytes": 83612, "saved": 24999, "pois": 541, "sec": 24.9}
+{"ts": "2026-11-11 22:35:23", "city": "Bristol", "id": "2654675", "status": 200, "endpoint": "maps.mail.ru", "bytes": 1599620, "saved": 264689, "pois": 5567, "sec": 28.9}
+{"ts": "2026-11-11 22:36:19", "city": "East London", "id": "1006984", "status": 200, "endpoint": "maps.mail.ru", "bytes": 64006, "saved": 16826, "pois": 352, "sec": 49.8}
+{"ts": "2026-11-11 22:37:41", "city": "Holguin", "id": "3556969", "status": 200, "endpoint": "maps.mail.ru", "bytes": 167245, "saved": 44992, "pois": 942, "sec": 27.4}
+{"ts": "2026-11-11 22:38:11", "city": "Ust-Kamenogorsk", "id": "1520316", "status": 200, "endpoint": "maps.mail.ru", "bytes": 85749, "saved": 20961, "pois": 439, "sec": 27.6}
+{"ts": "2026-11-11 22:40:18", "city": "Tsuen Wan", "id": "1818209", "status": 200, "endpoint": "overpass-api.de", "bytes": 1767606, "saved": 257448, "pois": 5325, "sec": 62.1}
+{"ts": "2026-11-11 22:40:23", "city": "Zinder", "id": "2437798", "status": 200, "endpoint": "overpass.osm.ch", "bytes": 821, "saved": 66, "pois": 1, "sec": 1.2}
+{"ts": "2026-11-11 22:42:32", "city": "Al Diwaniyah", "id": "99762", "status": 200, "endpoint": "overpass.kumi.systems", "bytes": 57789, "saved": 15947, "pois": 324, "sec": 115.0}
+{"ts": "2026-11-11 22:44:36", "city": "Varna", "id": "726050", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 22:45:29", "city": "Damanhur", "id": "358448", "status": 200, "endpoint": "maps.mail.ru", "bytes": 1843, "saved": 485, "pois": 10, "sec": 50.4}
+{"ts": "2026-11-11 22:46:05", "city": "Popayan", "id": "3671916", "status": 200, "endpoint": "maps.mail.ru", "bytes": 106020, "saved": 32488, "pois": 682, "sec": 29.8}
+{"ts": "2026-11-11 22:48:50", "city": "Geita", "id": "159908", "status": 200, "endpoint": "overpass.kumi.systems", "bytes": 8390, "saved": 2673, "pois": 54, "sec": 101.2}
+{"ts": "2026-11-11 22:49:21", "city": "Constanta", "id": "680963", "status": 200, "endpoint": "maps.mail.ru", "bytes": 338198, "saved": 79176, "pois": 1669, "sec": 28.9}
+{"ts": "2026-11-11 22:53:47", "city": "Taoyuan", "id": "6696918", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 22:53:53", "city": "Vereeniging", "id": "944385", "status": 0, "error": "overpass-api.de: HTTP 502"}
+{"ts": "2026-11-11 22:53:56", "city": "The Hague", "id": "2747373", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-11 22:53:59", "city": "Al-Kut", "id": "99131", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-11 22:57:18", "city": "Maroua", "id": "2228373", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 22:58:02", "city": "Seeb", "id": "288967", "status": 0, "error": "maps.mail.ru: HTTP 504"}
+{"ts": "2026-11-11 22:58:30", "city": "Gonder", "id": "336014", "status": 200, "endpoint": "maps.mail.ru", "bytes": 40728, "saved": 10582, "pois": 217, "sec": 25.6}
+{"ts": "2026-11-11 22:59:02", "city": "Mixco", "id": "3592519", "status": 200, "endpoint": "maps.mail.ru", "bytes": 311131, "saved": 87719, "pois": 1877, "sec": 25.7}
+{"ts": "2026-11-11 23:00:00", "city": "Port Louis", "id": "934154", "status": 200, "endpoint": "overpass-api.de", "bytes": 166222, "saved": 43399, "pois": 890, "sec": 43.3}
+{"ts": "2026-11-11 23:00:51", "city": "Sariwon-si", "id": "1870883", "status": 200, "endpoint": "overpass-api.de", "bytes": 9950, "saved": 3636, "pois": 75, "sec": 42.0}
+{"ts": "2026-11-11 23:01:30", "city": "Nova Vida", "id": "11592397", "status": 200, "endpoint": "overpass-api.de", "bytes": 229419, "saved": 58065, "pois": 1225, "sec": 35.7}
+{"ts": "2026-11-11 23:03:43", "city": "Saint-Denis", "id": "935264", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 23:03:46", "city": "Tabora", "id": "149658", "status": 0, "error": "overpass-api.de: HTTP 502"}
+{"ts": "2026-11-11 23:04:15", "city": "Kira", "id": "231165", "status": 0, "error": "maps.mail.ru: HTTP 504"}
+{"ts": "2026-11-11 23:04:49", "city": "Esna", "id": "355449", "status": 200, "endpoint": "maps.mail.ru", "bytes": 8642, "saved": 2517, "pois": 49, "sec": 31.3}
+{"ts": "2026-11-11 23:05:19", "city": "Port-de-Paix", "id": "3718420", "status": 200, "endpoint": "maps.mail.ru", "bytes": 15752, "saved": 2902, "pois": 62, "sec": 27.9}
+{"ts": "2026-11-11 23:05:46", "city": "Damietta", "id": "358048", "status": 200, "endpoint": "maps.mail.ru", "bytes": 8698, "saved": 2687, "pois": 55, "sec": 25.2}
+{"ts": "2026-11-11 23:06:20", "city": "Posadas", "id": "3429886", "status": 200, "endpoint": "maps.mail.ru", "bytes": 389403, "saved": 91876, "pois": 1966, "sec": 32.1}
+{"ts": "2026-11-11 23:09:27", "city": "Nazret", "id": "330186", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 23:09:41", "city": "Armenia", "id": "3689560", "status": 0, "error": "overpass-api.de: HTTP 502"}
+{"ts": "2026-11-11 23:10:24", "city": "Sumbawanga", "id": "149703", "status": 200, "endpoint": "overpass-api.de", "bytes": 12960, "saved": 4615, "pois": 96, "sec": 39.5}
+{"ts": "2026-11-11 23:11:12", "city": "Kahama", "id": "158597", "status": 200, "endpoint": "overpass-api.de", "bytes": 26766, "saved": 7453, "pois": 159, "sec": 46.0}
+{"ts": "2026-11-11 23:13:25", "city": "Hsinchu", "id": "1675151", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 23:13:28", "city": "Ciudad del Este", "id": "3439101", "status": 0, "error": "overpass-api.de: HTTP 502"}
+{"ts": "2026-11-11 23:14:30", "city": "Solwezi", "id": "897045", "status": 0, "error": "maps.mail.ru: HTTP 504"}
+{"ts": "2026-11-11 23:14:37", "city": "Valladolid", "id": "3106672", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-11 23:14:41", "city": "Warder", "id": "326282", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-11 23:14:44", "city": "Dili", "id": "1645457", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-11 23:16:56", "city": "Merida", "id": "3632308", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 23:17:39", "city": "Fergana", "id": "1514019", "status": 0, "error": "overpass-api.de: HTTP 502"}
+{"ts": "2026-11-11 23:18:29", "city": "Kaolack", "id": "2250805", "status": 200, "endpoint": "overpass-api.de", "bytes": 14556, "saved": 4581, "pois": 88, "sec": 48.3}
+{"ts": "2026-11-11 23:22:28", "city": "Boksburg", "id": "1017780", "status": 200, "endpoint": "overpass.kumi.systems", "bytes": 91249, "saved": 24274, "pois": 520, "sec": 106.1}
+{"ts": "2026-11-11 23:26:59", "city": "Bialystok", "id": "776069", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 23:27:28", "city": "Manama", "id": "290340", "status": 200, "endpoint": "maps.mail.ru", "bytes": 694960, "saved": 152189, "pois": 3106, "sec": 27.1}
+{"ts": "2026-11-11 23:29:56", "city": "Semey", "id": "1519422", "status": 200, "endpoint": "overpass-api.de", "bytes": 64911, "saved": 17116, "pois": 373, "sec": 38.1}
+{"ts": "2026-11-11 23:30:19", "city": "Laval", "id": "6050610", "status": 200, "endpoint": "maps.mail.ru", "bytes": 1187649, "saved": 215692, "pois": 4514, "sec": 21.4}
+{"ts": "2026-11-11 23:31:18", "city": "Sunch'on", "id": "1869012", "status": 200, "endpoint": "overpass-api.de", "bytes": 3514, "saved": 1428, "pois": 29, "sec": 43.4}
+{"ts": "2026-11-11 23:31:44", "city": "Resistencia", "id": "3429577", "status": 200, "endpoint": "maps.mail.ru", "bytes": 474664, "saved": 129997, "pois": 2753, "sec": 23.4}
+{"ts": "2026-11-11 23:33:37", "city": "Atyrau", "id": "610529", "status": 200, "endpoint": "overpass-api.de", "bytes": 107402, "saved": 30029, "pois": 649, "sec": 47.1}
+{"ts": "2026-11-11 23:34:20", "city": "San Cristobal", "id": "3628473", "status": 200, "endpoint": "overpass-api.de", "bytes": 88424, "saved": 26947, "pois": 583, "sec": 40.4}
+{"ts": "2026-11-11 23:35:06", "city": "Victoria", "id": "6174041", "status": 200, "endpoint": "overpass-api.de", "bytes": 578897, "saved": 122073, "pois": 2627, "sec": 40.0}
+{"ts": "2026-11-11 23:35:55", "city": "Batna", "id": "2505572", "status": 200, "endpoint": "overpass-api.de", "bytes": 45013, "saved": 11962, "pois": 247, "sec": 40.9}
+{"ts": "2026-11-11 23:36:38", "city": "Kaunas", "id": "598316", "status": 200, "endpoint": "overpass-api.de", "bytes": 434356, "saved": 67556, "pois": 1391, "sec": 40.1}
+{"ts": "2026-11-11 23:40:50", "city": "Machala", "id": "3654533", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 23:41:36", "city": "Wiesbaden", "id": "2809346", "status": 200, "endpoint": "maps.mail.ru", "bytes": 1575739, "saved": 242930, "pois": 5011, "sec": 38.9}
+{"ts": "2026-11-11 23:43:14", "city": "Kabwe", "id": "916095", "status": 200, "endpoint": "overpass-api.de", "bytes": 8801, "saved": 2616, "pois": 52, "sec": 34.1}
+{"ts": "2026-11-11 23:46:52", "city": "Buenaventura", "id": "3688452", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 23:47:28", "city": "Sinuiju", "id": "2040893", "status": 200, "endpoint": "overpass-api.de", "bytes": 29004, "saved": 9955, "pois": 204, "sec": 33.8}
+{"ts": "2026-11-11 23:48:05", "city": "Welkom", "id": "940909", "status": 200, "endpoint": "overpass-api.de", "bytes": 13126, "saved": 3789, "pois": 78, "sec": 34.9}
+{"ts": "2026-11-11 23:49:07", "city": "Katowice", "id": "3096472", "status": 200, "endpoint": "maps.mail.ru", "bytes": 1518151, "saved": 280813, "pois": 5815, "sec": 60.0}
+{"ts": "2026-11-11 23:50:26", "city": "Cluj-Napoca", "id": "681290", "status": 200, "endpoint": "maps.mail.ru", "bytes": 632272, "saved": 104686, "pois": 2212, "sec": 29.4}
+{"ts": "2026-11-11 23:51:14", "city": "Songea", "id": "877401", "status": 200, "endpoint": "overpass-api.de", "bytes": 5987, "saved": 1967, "pois": 42, "sec": 30.4}
+{"ts": "2026-11-11 23:52:03", "city": "Tacna", "id": "3928128", "status": 200, "endpoint": "overpass-api.de", "bytes": 218737, "saved": 74629, "pois": 1608, "sec": 44.4}
+{"ts": "2026-11-11 23:52:53", "city": "Kima Kieza", "id": "13608165", "status": 200, "endpoint": "overpass-api.de", "bytes": 180702, "saved": 41711, "pois": 877, "sec": 46.6}
+{"ts": "2026-11-11 23:54:02", "city": "Haifa", "id": "294801", "status": 200, "endpoint": "overpass-api.de", "bytes": 268289, "saved": 64011, "pois": 1344, "sec": 62.1}
+{"ts": "2026-11-11 23:56:16", "city": "Minya", "id": "360686", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-11 23:57:19", "city": "Al Kharj", "id": "109353", "status": 0, "error": "overpass-api.de: HTTP 502"}
+{"ts": "2026-11-11 23:57:23", "city": "Chernihiv", "id": "710735", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-11 23:57:26", "city": "Ica", "id": "3938527", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-11 23:57:29", "city": "London", "id": "6058560", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-11 23:59:46", "city": "Lichinga", "id": "1043893", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 00:03:17", "city": "Bogura", "id": "1337233", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 00:03:43", "city": "Ostrava", "id": "3068799", "status": 200, "endpoint": "maps.mail.ru", "bytes": 598526, "saved": 130470, "pois": 2669, "sec": 23.8}
+{"ts": "2026-11-12 00:05:35", "city": "Sfax", "id": "2467454", "status": 200, "endpoint": "overpass-api.de", "bytes": 169782, "saved": 42409, "pois": 902, "sec": 44.6}
+{"ts": "2026-11-12 00:06:18", "city": "Bukhara", "id": "1217662", "status": 200, "endpoint": "overpass-api.de", "bytes": 200940, "saved": 42752, "pois": 877, "sec": 39.5}
+{"ts": "2026-11-12 00:06:58", "city": "Poltava", "id": "696643", "status": 200, "endpoint": "overpass-api.de", "bytes": 266203, "saved": 46921, "pois": 995, "sec": 36.7}
+{"ts": "2026-11-12 00:08:50", "city": "Kowloon City", "id": "1819607", "status": 200, "endpoint": "overpass-api.de", "bytes": 3371235, "saved": 474919, "pois": 9883, "sec": 54.1}
+{"ts": "2026-11-12 00:09:41", "city": "Qarshi", "id": "1216311", "status": 200, "endpoint": "overpass-api.de", "bytes": 45428, "saved": 10932, "pois": 222, "sec": 45.2}
+{"ts": "2026-11-12 00:11:28", "city": "Tetouan", "id": "2528910", "status": 200, "endpoint": "overpass-api.de", "bytes": 107117, "saved": 37671, "pois": 778, "sec": 37.9}
+{"ts": "2026-11-12 00:12:17", "city": "Gagnoa", "id": "2288829", "status": 200, "endpoint": "overpass-api.de", "bytes": 15601, "saved": 5568, "pois": 113, "sec": 44.6}
+{"ts": "2026-11-12 00:13:15", "city": "Praia", "id": "3374333", "status": 200, "endpoint": "overpass-api.de", "bytes": 55882, "saved": 17333, "pois": 361, "sec": 53.5}
+{"ts": "2026-11-12 00:14:04", "city": "Bunamwaya", "id": "234179", "status": 200, "endpoint": "overpass-api.de", "bytes": 377389, "saved": 117931, "pois": 2459, "sec": 46.1}
+{"ts": "2026-11-12 00:14:50", "city": "Tseung Kwan O", "id": "1818506", "status": 200, "endpoint": "overpass-api.de", "bytes": 2485155, "saved": 355780, "pois": 7401, "sec": 43.9}
+{"ts": "2026-11-12 00:15:33", "city": "Koumassi", "id": "2285853", "status": 200, "endpoint": "overpass-api.de", "bytes": 682430, "saved": 212509, "pois": 4495, "sec": 41.0}
+{"ts": "2026-11-12 00:15:59", "city": "Khmelnytskyi", "id": "706369", "status": 200, "endpoint": "maps.mail.ru", "bytes": 150259, "saved": 32575, "pois": 689, "sec": 19.2}
+{"ts": "2026-11-12 00:17:09", "city": "Loja", "id": "3654667", "status": 200, "endpoint": "maps.mail.ru", "bytes": 223072, "saved": 49626, "pois": 1048, "sec": 17.6}
+{"ts": "2026-11-12 00:20:09", "city": "Tai Po", "id": "1818673", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 00:20:32", "city": "Guantanamo", "id": "3557689", "status": 200, "endpoint": "maps.mail.ru", "bytes": 32158, "saved": 9218, "pois": 194, "sec": 20.2}
+{"ts": "2026-11-12 00:20:55", "city": "Ar Rayyan", "id": "289888", "status": 200, "endpoint": "maps.mail.ru", "bytes": 371317, "saved": 101539, "pois": 2078, "sec": 21.7}
+{"ts": "2026-11-12 00:21:21", "city": "Polokwane", "id": "965289", "status": 200, "endpoint": "maps.mail.ru", "bytes": 32923, "saved": 7450, "pois": 156, "sec": 24.2}
+{"ts": "2026-11-12 00:23:12", "city": "Jalalabad", "id": "1139715", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 00:25:16", "city": "Deir ez-Zor", "id": "170794", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 00:25:20", "city": "Uvira", "id": "204405", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 00:28:47", "city": "Manaus", "id": "3663517", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 00:29:01", "city": "Cairns", "id": "2172797", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 00:29:04", "city": "Wellington", "id": "2179537", "status": 0, "error": "maps.mail.ru: HTTP 504"}
+{"ts": "2026-11-12 00:29:21", "city": "Christchurch", "id": "2192362", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-12 00:29:24", "city": "Honolulu", "id": "5856195", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-12 00:29:27", "city": "Reykjavik", "id": "3413829", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-12 00:32:18", "city": "Copenhagen", "id": "2618425", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 00:32:20", "city": "Stockholm", "id": "2673730", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 00:33:33", "city": "Belgrade", "id": "792680", "status": 200, "endpoint": "maps.mail.ru", "bytes": 2399396, "saved": 363262, "pois": 7733, "sec": 24.5}
+{"ts": "2026-11-12 00:34:59", "city": "Valletta", "id": "2562305", "status": 200, "endpoint": "maps.mail.ru", "bytes": 954659, "saved": 209547, "pois": 4368, "sec": 26.4}
+{"ts": "2026-11-12 00:35:24", "city": "Nicosia", "id": "146268", "status": 200, "endpoint": "maps.mail.ru", "bytes": 605587, "saved": 136872, "pois": 2922, "sec": 22.7}
+{"ts": "2026-11-12 00:36:03", "city": "Dublin", "id": "2964574", "status": 200, "endpoint": "maps.mail.ru", "bytes": 2835717, "saved": 455468, "pois": 9759, "sec": 36.8}
+{"ts": "2026-11-12 00:36:37", "city": "Edinburgh", "id": "2650225", "status": 200, "endpoint": "maps.mail.ru", "bytes": 9883093, "saved": 2594213, "pois": 57279, "sec": 32.1}
+{"ts": "2026-11-12 00:37:10", "city": "Glasgow", "id": "2648579", "status": 200, "endpoint": "maps.mail.ru", "bytes": 1989526, "saved": 467746, "pois": 10145, "sec": 26.9}
+{"ts": "2026-11-12 00:37:35", "city": "York", "id": "2633352", "status": 200, "endpoint": "maps.mail.ru", "bytes": 1319661, "saved": 316668, "pois": 6794, "sec": 22.6}
+{"ts": "2026-11-12 00:38:01", "city": "Liverpool", "id": "2644210", "status": 200, "endpoint": "maps.mail.ru", "bytes": 1136949, "saved": 247317, "pois": 5307, "sec": 23.6}
+{"ts": "2026-11-12 00:40:16", "city": "Kinshasa", "id": "2314302", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 00:40:23", "city": "Moscow", "id": "524901", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 00:40:27", "city": "Dhaka", "id": "1185241", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-12 00:43:47", "city": "London", "id": "2643743", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 00:43:49", "city": "Jakarta", "id": "1642911", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 00:44:30", "city": "Tehran", "id": "112931", "status": 0, "error": "maps.mail.ru: HTTP 504"}
+{"ts": "2026-11-12 00:44:35", "city": "Tianjin", "id": "1792947", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-12 00:44:38", "city": "Wuhan", "id": "1791247", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-12 00:44:41", "city": "Lahore", "id": "1172451", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-12 00:47:17", "city": "Mumbai", "id": "1275339", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 00:47:20", "city": "Karachi", "id": "1174872", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 00:48:56", "city": "Hefei", "id": "1808722", "status": 200, "endpoint": "maps.mail.ru", "bytes": 192936, "saved": 53787, "pois": 1169, "sec": 18.0}
+{"ts": "2026-11-12 00:49:36", "city": "Kabul", "id": "1138958", "status": 200, "endpoint": "maps.mail.ru", "bytes": 167850, "saved": 54242, "pois": 1079, "sec": 34.1}
+{"ts": "2026-11-12 00:50:14", "city": "Bengaluru", "id": "1277333", "status": 200, "endpoint": "maps.mail.ru", "bytes": 2964710, "saved": 713118, "pois": 14851, "sec": 35.9}
+{"ts": "2026-11-12 00:52:25", "city": "Bamako", "id": "2460596", "status": 0, "error": "overpass.kumi.systems: HTTP 504"}
+{"ts": "2026-11-12 00:52:30", "city": "Riyadh", "id": "108410", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 00:52:33", "city": "Addis Ababa", "id": "344979", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-12 00:54:01", "city": "Ankara", "id": "323786", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 00:55:31", "city": "Hyderabad", "id": "1269843", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 00:58:28", "city": "Pyongyang", "id": "1871859", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 00:58:43", "city": "Abidjan", "id": "2293538", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 00:58:48", "city": "Kyiv", "id": "703448", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-12 00:58:51", "city": "Dar es Salaam", "id": "160263", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-12 01:01:59", "city": "Abuja", "id": "2352778", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 01:02:01", "city": "Saint Petersburg", "id": "498817", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 01:02:58", "city": "Kano", "id": "2335204", "status": 0, "error": "maps.mail.ru: HTTP 504"}
+{"ts": "2026-11-12 01:03:52", "city": "Ouagadougou", "id": "2357048", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-12 01:06:00", "city": "Peshawar", "id": "1168197", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 01:06:04", "city": "Baku", "id": "587084", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 01:09:31", "city": "Chennai", "id": "1264527", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 01:10:36", "city": "Kolkata", "id": "1275004", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 01:10:54", "city": "Pretoria", "id": "964137", "status": 200, "endpoint": "maps.mail.ru", "bytes": 481001, "saved": 125673, "pois": 2674, "sec": 16.2}
+{"ts": "2026-11-12 01:11:22", "city": "Khartoum", "id": "379252", "status": 200, "endpoint": "maps.mail.ru", "bytes": 552480, "saved": 177579, "pois": 3534, "sec": 25.4}
+{"ts": "2026-11-12 01:13:29", "city": "Accra", "id": "2306104", "status": 200, "endpoint": "maps.mail.ru", "bytes": 737068, "saved": 165271, "pois": 3389, "sec": 66.7}
+{"ts": "2026-11-12 01:15:17", "city": "Chattogram", "id": "1205733", "status": 200, "endpoint": "overpass.kumi.systems", "bytes": 399975, "saved": 117736, "pois": 2294, "sec": 92.0}
+{"ts": "2026-11-12 01:17:22", "city": "Sanaa", "id": "71137", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 01:17:26", "city": "Conakry", "id": "2422465", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 01:22:53", "city": "Ibadan", "id": "2339354", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 01:23:11", "city": "Minsk", "id": "625144", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 01:23:47", "city": "Kampala", "id": "232422", "status": 200, "endpoint": "maps.mail.ru", "bytes": 579572, "saved": 180738, "pois": 3729, "sec": 33.8}
+{"ts": "2026-11-12 01:24:33", "city": "Manila", "id": "1701668", "status": 200, "endpoint": "maps.mail.ru", "bytes": 3537723, "saved": 703292, "pois": 14600, "sec": 40.3}
+{"ts": "2026-11-12 01:26:49", "city": "Harare", "id": "890299", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 01:27:13", "city": "Asuncion", "id": "3439389", "status": 200, "endpoint": "maps.mail.ru", "bytes": 598183, "saved": 136653, "pois": 2873, "sec": 21.7}
+{"ts": "2026-11-12 01:27:48", "city": "Kuala Lumpur", "id": "1735161", "status": 200, "endpoint": "maps.mail.ru", "bytes": 2476345, "saved": 534881, "pois": 10926, "sec": 28.6}
+{"ts": "2026-11-12 01:28:17", "city": "Kathmandu", "id": "1283240", "status": 200, "endpoint": "maps.mail.ru", "bytes": 2247900, "saved": 627237, "pois": 12851, "sec": 27.3}
+{"ts": "2026-11-12 01:28:51", "city": "N'Djamena", "id": "2427123", "status": 200, "endpoint": "maps.mail.ru", "bytes": 172264, "saved": 45304, "pois": 912, "sec": 31.5}
+{"ts": "2026-11-12 01:31:55", "city": "Kigali", "id": "202061", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 01:32:52", "city": "Almaty", "id": "1526384", "status": 200, "endpoint": "maps.mail.ru", "bytes": 878566, "saved": 174715, "pois": 3693, "sec": 54.2}
+{"ts": "2026-11-12 01:34:00", "city": "Bangui", "id": "2389853", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 01:36:55", "city": "Daejeon", "id": "1835235", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 01:36:58", "city": "Tabriz", "id": "113646", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 01:37:01", "city": "Gwangju", "id": "1841811", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-12 01:40:25", "city": "Tunis", "id": "2464470", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 01:41:24", "city": "Douala", "id": "2232593", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 01:42:21", "city": "Indore", "id": "1269743", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-12 01:44:26", "city": "Tangerang", "id": "1625084", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 01:44:30", "city": "Hyderabad", "id": "1176734", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 01:47:57", "city": "Bien Hoa", "id": "1587923", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 01:48:32", "city": "Chisinau", "id": "618426", "status": 200, "endpoint": "maps.mail.ru", "bytes": 1799956, "saved": 565946, "pois": 12307, "sec": 33.1}
+{"ts": "2026-11-12 01:48:57", "city": "Kananga", "id": "214481", "status": 200, "endpoint": "maps.mail.ru", "bytes": 8774, "saved": 2889, "pois": 59, "sec": 18.8}
+{"ts": "2026-11-12 01:50:06", "city": "Nizhniy Novgorod", "id": "520555", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 01:52:11", "city": "Djibouti", "id": "223817", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 01:52:14", "city": "Dammam", "id": "110336", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 01:55:04", "city": "Camayenne", "id": "2422488", "status": 200, "endpoint": "overpass.kumi.systems", "bytes": 117018, "saved": 38623, "pois": 778, "sec": 82.9}
+{"ts": "2026-11-12 01:55:35", "city": "Omdurman", "id": "365137", "status": 200, "endpoint": "maps.mail.ru", "bytes": 517520, "saved": 166716, "pois": 3322, "sec": 29.7}
+{"ts": "2026-11-12 01:58:44", "city": "Thane", "id": "1254661", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 01:59:39", "city": "Callao", "id": "3946083", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 01:59:42", "city": "Iztapalapa", "id": "3526683", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-12 01:59:45", "city": "Karbala", "id": "94824", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-12 02:02:15", "city": "Vadodara", "id": "1253573", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 02:02:17", "city": "Mombasa", "id": "186301", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 02:03:49", "city": "Srinagar", "id": "1255634", "status": 0, "error": "maps.mail.ru: HTTP 504"}
+{"ts": "2026-11-12 02:05:55", "city": "Barranquilla", "id": "3689147", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 02:06:03", "city": "Islamabad", "id": "1176615", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 02:06:06", "city": "Shymkent", "id": "1518980", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-12 02:09:26", "city": "Matola", "id": "1039854", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 02:09:50", "city": "Arequipa", "id": "3947322", "status": 200, "endpoint": "maps.mail.ru", "bytes": 491420, "saved": 147121, "pois": 3155, "sec": 22.2}
+{"ts": "2026-11-12 02:10:08", "city": "Pekanbaru", "id": "1631761", "status": 200, "endpoint": "maps.mail.ru", "bytes": 346927, "saved": 100854, "pois": 1992, "sec": 16.4}
+{"ts": "2026-11-12 02:10:23", "city": "Samara", "id": "499099", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 02:10:29", "city": "Caloocan", "id": "1720151", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-12 02:10:32", "city": "Monterrey", "id": "3995465", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-12 02:12:33", "city": "Soweto", "id": "953781", "status": 200, "endpoint": "overpass.kumi.systems", "bytes": 109226, "saved": 28437, "pois": 598, "sec": 97.0}
+{"ts": "2026-11-12 02:13:55", "city": "Maiduguri", "id": "2331447", "status": 200, "endpoint": "overpass.kumi.systems", "bytes": 14717, "saved": 4781, "pois": 96, "sec": 80.4}
+{"ts": "2026-11-12 02:15:58", "city": "Ilorin", "id": "2337639", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 02:16:28", "city": "Trujillo", "id": "3691175", "status": 200, "endpoint": "maps.mail.ru", "bytes": 469001, "saved": 133859, "pois": 2832, "sec": 27.7}
+{"ts": "2026-11-12 02:16:43", "city": "Leon de los Aldama", "id": "3998655", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 02:16:47", "city": "San Salvador", "id": "3583361", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-12 02:16:51", "city": "Voronezh", "id": "472045", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-12 02:19:29", "city": "Sokoto", "id": "2322911", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 02:19:31", "city": "Onitsha", "id": "2326016", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 02:21:08", "city": "Mexicali", "id": "3996069", "status": 200, "endpoint": "maps.mail.ru", "bytes": 180335, "saved": 47026, "pois": 1024, "sec": 17.5}
+{"ts": "2026-11-12 02:21:47", "city": "Pointe-Noire", "id": "2255414", "status": 200, "endpoint": "maps.mail.ru", "bytes": 166546, "saved": 52571, "pois": 1067, "sec": 36.5}
+{"ts": "2026-11-12 02:22:12", "city": "Maceio", "id": "3395981", "status": 200, "endpoint": "maps.mail.ru", "bytes": 218280, "saved": 52630, "pois": 1123, "sec": 23.2}
+{"ts": "2026-11-12 02:25:12", "city": "Rangpur", "id": "1185188", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 02:25:37", "city": "Changwon", "id": "1846326", "status": 200, "endpoint": "maps.mail.ru", "bytes": 401125, "saved": 111776, "pois": 2338, "sec": 23.1}
+{"ts": "2026-11-12 02:25:52", "city": "Kawasaki", "id": "1859642", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 02:26:22", "city": "Volgograd", "id": "472757", "status": 200, "endpoint": "maps.mail.ru", "bytes": 432912, "saved": 89004, "pois": 1912, "sec": 27.3}
+{"ts": "2026-11-12 02:27:23", "city": "Edmonton", "id": "5946768", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-12 02:27:43", "city": "Ciudad Juarez", "id": "4013708", "status": 200, "endpoint": "maps.mail.ru", "bytes": 563198, "saved": 155215, "pois": 3193, "sec": 18.1}
+{"ts": "2026-11-12 02:28:14", "city": "Zapopan", "id": "3979770", "status": 200, "endpoint": "maps.mail.ru", "bytes": 883459, "saved": 255248, "pois": 5404, "sec": 24.2}
+{"ts": "2026-11-12 02:28:37", "city": "Perm", "id": "511196", "status": 200, "endpoint": "maps.mail.ru", "bytes": 415834, "saved": 81363, "pois": 1713, "sec": 21.0}
+{"ts": "2026-11-12 02:28:58", "city": "Chiba", "id": "2113015", "status": 200, "endpoint": "maps.mail.ru", "bytes": 488103, "saved": 122406, "pois": 2652, "sec": 19.5}
+{"ts": "2026-11-12 02:33:00", "city": "Dnipro", "id": "709930", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 02:33:04", "city": "South Tangerang", "id": "8581443", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 02:33:07", "city": "Enugu", "id": "2343279", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-12 02:33:10", "city": "Padang", "id": "1633419", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-12 02:36:30", "city": "Taiz", "id": "70225", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 02:36:33", "city": "Eskisehir", "id": "315202", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 02:38:05", "city": "Sao Luis", "id": "3388368", "status": 0, "error": "maps.mail.ru: HTTP 504"}
+{"ts": "2026-11-12 02:40:10", "city": "Bannu", "id": "1183460", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 02:40:14", "city": "Bobo-Dioulasso", "id": "2362344", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 02:40:17", "city": "Blantyre", "id": "931755", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-12 02:45:16", "city": "Donetsk", "id": "709717", "status": 0, "error": "overpass.kumi.systems: HTTP 504"}
+{"ts": "2026-11-12 02:46:11", "city": "Qom", "id": "119208", "status": 200, "endpoint": "maps.mail.ru", "bytes": 188507, "saved": 50993, "pois": 1094, "sec": 53.8}
+{"ts": "2026-11-12 02:46:26", "city": "Juba", "id": "373303", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 02:47:24", "city": "Krasnodar", "id": "542420", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-12 02:47:27", "city": "Guarulhos", "id": "3461786", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-12 02:47:57", "city": "Natal", "id": "3394023", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 02:51:16", "city": "Abobo", "id": "2293521", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 02:51:19", "city": "Bissau", "id": "2374775", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 02:53:22", "city": "Sulaymaniyah", "id": "98463", "status": 0, "error": "maps.mail.ru: HTTP 504"}
+{"ts": "2026-11-12 02:54:04", "city": "Taguig", "id": "1684308", "status": 200, "endpoint": "maps.mail.ru", "bytes": 3709328, "saved": 725190, "pois": 15079, "sec": 40.2}
+{"ts": "2026-11-12 02:54:26", "city": "Teresina", "id": "3386496", "status": 200, "endpoint": "maps.mail.ru", "bytes": 375215, "saved": 80267, "pois": 1703, "sec": 19.3}
+{"ts": "2026-11-12 02:56:41", "city": "Samarinda", "id": "1629001", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 02:57:18", "city": "Batam", "id": "6295587", "status": 200, "endpoint": "maps.mail.ru", "bytes": 290075, "saved": 85405, "pois": 1687, "sec": 34.5}
+{"ts": "2026-11-12 02:57:48", "city": "Johor Bahru", "id": "1732752", "status": 200, "endpoint": "maps.mail.ru", "bytes": 517702, "saved": 116655, "pois": 2400, "sec": 28.1}
+{"ts": "2026-11-12 02:59:02", "city": "Cheongju-si", "id": "1845604", "status": 200, "endpoint": "maps.mail.ru", "bytes": 161715, "saved": 46512, "pois": 980, "sec": 22.0}
+{"ts": "2026-11-12 03:00:18", "city": "Thanh Hoa", "id": "1566166", "status": 200, "endpoint": "maps.mail.ru", "bytes": 15076, "saved": 5024, "pois": 108, "sec": 20.0}
+{"ts": "2026-11-12 03:01:36", "city": "Budta", "id": "1723510", "status": 200, "endpoint": "maps.mail.ru", "bytes": 17067, "saved": 5224, "pois": 106, "sec": 19.3}
+{"ts": "2026-11-12 03:05:43", "city": "Bratislava", "id": "3060972", "status": 0, "error": "overpass.kumi.systems: HTTP 504"}
+{"ts": "2026-11-12 03:07:49", "city": "Saratov", "id": "498677", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 03:07:51", "city": "Takeo", "id": "1821940", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 03:11:19", "city": "Cochabamba", "id": "3919968", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 03:11:47", "city": "Ahvaz", "id": "144448", "status": 200, "endpoint": "maps.mail.ru", "bytes": 102608, "saved": 28520, "pois": 605, "sec": 25.7}
+{"ts": "2026-11-12 03:12:09", "city": "Pietermaritzburg", "id": "965301", "status": 200, "endpoint": "maps.mail.ru", "bytes": 20029, "saved": 4967, "pois": 103, "sec": 20.7}
+{"ts": "2026-11-12 03:13:10", "city": "Jepara", "id": "1642548", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 03:16:03", "city": "Tirana", "id": "3183875", "status": 0, "error": "overpass.kumi.systems: HTTP 502"}
+{"ts": "2026-11-12 03:16:07", "city": "San Juan", "id": "4568127", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 03:17:38", "city": "Joao Pessoa", "id": "3397277", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 03:18:14", "city": "Bukavu", "id": "217831", "status": 0, "error": "maps.mail.ru: HTTP 504"}
+{"ts": "2026-11-12 03:19:07", "city": "Panama City", "id": "3703443", "status": 0, "error": "maps.mail.ru: HTTP 504"}
+{"ts": "2026-11-12 03:19:10", "city": "Barcelona", "id": "3648559", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 03:22:04", "city": "Sadr City", "id": "7802746", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 03:22:08", "city": "Oran", "id": "2485926", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 03:22:11", "city": "San Pedro Sula", "id": "3601782", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-12 03:22:14", "city": "Niigata", "id": "1855431", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-12 03:24:14", "city": "Zarqa", "id": "250090", "status": 200, "endpoint": "maps.mail.ru", "bytes": 39023, "saved": 9287, "pois": 189, "sec": 16.3}
+{"ts": "2026-11-12 03:26:29", "city": "Aba", "id": "2353151", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 03:27:23", "city": "Windhoek", "id": "3352136", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 03:27:26", "city": "Birmingham", "id": "2655603", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-12 03:27:29", "city": "Ibb", "id": "74477", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-12 03:31:58", "city": "Malatya", "id": "304922", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 03:32:13", "city": "Winnipeg", "id": "6183235", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 03:32:17", "city": "Malingao", "id": "1978681", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-12 03:32:20", "city": "Andijon", "id": "1514588", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-12 03:35:28", "city": "Touba", "id": "2244322", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 03:35:31", "city": "Buraydah", "id": "107304", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 03:37:10", "city": "Kumamoto", "id": "1858421", "status": 0, "error": "maps.mail.ru: HTTP 504"}
+{"ts": "2026-11-12 03:37:37", "city": "Canberra", "id": "2172517", "status": 200, "endpoint": "maps.mail.ru", "bytes": 803811, "saved": 232795, "pois": 4955, "sec": 24.5}
+{"ts": "2026-11-12 03:38:01", "city": "Abeokuta", "id": "2352947", "status": 200, "endpoint": "maps.mail.ru", "bytes": 5127, "saved": 974, "pois": 19, "sec": 18.1}
+{"ts": "2026-11-12 03:38:29", "city": "Al Hudaydah", "id": "79415", "status": 200, "endpoint": "maps.mail.ru", "bytes": 49922, "saved": 11324, "pois": 231, "sec": 21.8}
+{"ts": "2026-11-12 03:41:32", "city": "Muzaffarabad", "id": "1169607", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 03:42:00", "city": "Okayama", "id": "1854383", "status": 200, "endpoint": "maps.mail.ru", "bytes": 709496, "saved": 162716, "pois": 3380, "sec": 26.3}
+{"ts": "2026-11-12 03:42:15", "city": "Maseru", "id": "932505", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 03:42:40", "city": "Lviv", "id": "702550", "status": 200, "endpoint": "maps.mail.ru", "bytes": 1108741, "saved": 195542, "pois": 4171, "sec": 23.0}
+{"ts": "2026-11-12 03:43:07", "city": "Namangan", "id": "1513157", "status": 200, "endpoint": "maps.mail.ru", "bytes": 47669, "saved": 12426, "pois": 253, "sec": 24.9}
+{"ts": "2026-11-12 03:45:22", "city": "Zaporizhzhya", "id": "687700", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 03:45:26", "city": "Gqeberha", "id": "964420", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 03:48:53", "city": "Santo Domingo Este", "id": "8601412", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 03:48:57", "city": "Suez", "id": "359796", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 03:49:00", "city": "Bauchi", "id": "2347470", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-12 03:49:03", "city": "Beira", "id": "1052373", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-12 03:49:55", "city": "Zaragoza", "id": "3104324", "status": 200, "endpoint": "maps.mail.ru", "bytes": 940868, "saved": 208391, "pois": 4462, "sec": 25.5}
+{"ts": "2026-11-12 03:50:33", "city": "Khartoum North", "id": "379251", "status": 200, "endpoint": "maps.mail.ru", "bytes": 557582, "saved": 178767, "pois": 3563, "sec": 31.8}
+{"ts": "2026-11-12 03:51:03", "city": "Katsina", "id": "2334802", "status": 200, "endpoint": "maps.mail.ru", "bytes": 4434, "saved": 1346, "pois": 27, "sec": 27.6}
+{"ts": "2026-11-12 03:51:25", "city": "Tabuk", "id": "101628", "status": 200, "endpoint": "maps.mail.ru", "bytes": 65456, "saved": 27130, "pois": 518, "sec": 20.7}
+{"ts": "2026-11-12 03:51:51", "city": "Bulawayo", "id": "894701", "status": 200, "endpoint": "maps.mail.ru", "bytes": 64303, "saved": 15834, "pois": 319, "sec": 23.9}
+{"ts": "2026-11-12 03:52:28", "city": "Esenyurt", "id": "747323", "status": 200, "endpoint": "maps.mail.ru", "bytes": 312899, "saved": 84229, "pois": 1771, "sec": 30.6}
+{"ts": "2026-11-12 03:56:39", "city": "Zaria", "id": "2317765", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 03:57:03", "city": "Ciudad Guayana", "id": "3645528", "status": 200, "endpoint": "maps.mail.ru", "bytes": 148247, "saved": 21496, "pois": 469, "sec": 21.9}
+{"ts": "2026-11-12 03:57:18", "city": "Sargodha", "id": "1166000", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 03:57:42", "city": "Izhevsk", "id": "554840", "status": 200, "endpoint": "maps.mail.ru", "bytes": 320564, "saved": 74644, "pois": 1583, "sec": 22.0}
+{"ts": "2026-11-12 03:58:06", "city": "Sale", "id": "2537763", "status": 200, "endpoint": "maps.mail.ru", "bytes": 386748, "saved": 130643, "pois": 2774, "sec": 22.4}
+{"ts": "2026-11-12 03:59:25", "city": "Maturin", "id": "3778045", "status": 200, "endpoint": "maps.mail.ru", "bytes": 46765, "saved": 14621, "pois": 320, "sec": 24.9}
+{"ts": "2026-11-12 04:02:23", "city": "Cuenca", "id": "3658666", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 04:03:17", "city": "Barnaul", "id": "1510853", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 04:05:53", "city": "Rosario", "id": "3838583", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 04:05:56", "city": "Ndola", "id": "901344", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 04:08:08", "city": "Al Mansurah", "id": "360761", "status": 0, "error": "maps.mail.ru: HTTP 504"}
+{"ts": "2026-11-12 04:10:14", "city": "Kermanshah", "id": "128226", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 04:10:17", "city": "Chiclayo", "id": "3698350", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 04:10:20", "city": "Antipolo", "id": "1730501", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-12 04:13:45", "city": "Gothenburg", "id": "2711537", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 04:15:14", "city": "Sialkot", "id": "1164909", "status": 200, "endpoint": "maps.mail.ru", "bytes": 45170, "saved": 13001, "pois": 252, "sec": 27.1}
+{"ts": "2026-11-12 04:16:14", "city": "Ha'il", "id": "106281", "status": 200, "endpoint": "maps.mail.ru", "bytes": 47830, "saved": 16729, "pois": 312, "sec": 57.3}
+{"ts": "2026-11-12 04:16:39", "city": "Abu Ghurayb", "id": "100077", "status": 200, "endpoint": "maps.mail.ru", "bytes": 41273, "saved": 10633, "pois": 213, "sec": 19.8}
+{"ts": "2026-11-12 04:18:52", "city": "Huambo", "id": "3348313", "status": 0, "error": "overpass.kumi.systems: HTTP 504"}
+{"ts": "2026-11-12 04:18:57", "city": "Samarkand", "id": "1216265", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 04:19:00", "city": "Rasht", "id": "118743", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-12 04:20:27", "city": "Soshanguve", "id": "954013", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 04:21:58", "city": "Bucaramanga", "id": "3688465", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 04:24:52", "city": "Malacca", "id": "1734759", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 04:25:57", "city": "Nha Trang", "id": "1572151", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 04:26:55", "city": "Kerman", "id": "128234", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-12 04:28:59", "city": "Viana", "id": "2236500", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 04:29:02", "city": "Tanta", "id": "347497", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 04:32:17", "city": "Calamba", "id": "1720681", "status": 200, "endpoint": "overpass.kumi.systems", "bytes": 256737, "saved": 62821, "pois": 1296, "sec": 108.4}
+{"ts": "2026-11-12 04:36:31", "city": "Herat", "id": "1140026", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 04:36:36", "city": "Arifwala", "id": "1184370", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 04:36:39", "city": "Irbid", "id": "248946", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-12 04:40:02", "city": "Kota Bharu", "id": "1736376", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 04:40:05", "city": "Pasig City", "id": "7290466", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 04:40:59", "city": "Bucheon-si", "id": "1838716", "status": 200, "endpoint": "maps.mail.ru", "bytes": 1084930, "saved": 212328, "pois": 4440, "sec": 24.5}
+{"ts": "2026-11-12 04:42:17", "city": "Bloemfontein", "id": "1018725", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-12 04:47:08", "city": "Santiago de Cuba", "id": "3536729", "status": 0, "error": "overpass.kumi.systems: HTTP 504"}
+{"ts": "2026-11-12 04:47:13", "city": "Kampung Baru Subang", "id": "1771023", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 04:47:41", "city": "Benguela", "id": "3351663", "status": 200, "endpoint": "maps.mail.ru", "bytes": 19430, "saved": 5689, "pois": 120, "sec": 25.6}
+{"ts": "2026-11-12 04:47:54", "city": "Zahedan", "id": "1159301", "status": 0, "error": "maps.mail.ru: HTTP 504"}
+{"ts": "2026-11-12 04:47:57", "city": "Kuantan", "id": "1735227", "status": 0, "error": "maps.mail.ru: HTTP 504"}
+{"ts": "2026-11-12 04:48:44", "city": "Bremen", "id": "2944388", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 04:50:14", "city": "Oujda", "id": "2540483", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 04:55:03", "city": "Ar Raqqah", "id": "172955", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 04:56:01", "city": "Ibague", "id": "3680656", "status": 200, "endpoint": "maps.mail.ru", "bytes": 141452, "saved": 51280, "pois": 1120, "sec": 52.2}
+{"ts": "2026-11-12 04:56:32", "city": "Assiut", "id": "359783", "status": 200, "endpoint": "maps.mail.ru", "bytes": 28680, "saved": 10730, "pois": 220, "sec": 28.9}
+{"ts": "2026-11-12 04:59:41", "city": "Porto-Novo", "id": "2392087", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 04:59:46", "city": "Hamadan", "id": "132144", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 04:59:49", "city": "Cankaya", "id": "6955677", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-12 05:05:00", "city": "Kolwezi", "id": "922773", "status": 0, "error": "overpass.kumi.systems: HTTP 504"}
+{"ts": "2026-11-12 05:06:04", "city": "Van", "id": "298117", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 05:06:08", "city": "Mazar-e Sharif", "id": "1133616", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-12 05:06:11", "city": "Kandahar", "id": "1138336", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-12 05:07:34", "city": "Salta", "id": "3838233", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 05:11:01", "city": "Al Fayyum", "id": "361320", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 05:11:59", "city": "Hannover", "id": "2910831", "status": 200, "endpoint": "maps.mail.ru", "bytes": 2355580, "saved": 336819, "pois": 7041, "sec": 55.9}
+{"ts": "2026-11-12 05:13:02", "city": "Tuen Mun", "id": "1818446", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 05:14:34", "city": "Najran", "id": "103630", "status": 200, "endpoint": "overpass.kumi.systems", "bytes": 16222, "saved": 4876, "pois": 97, "sec": 87.7}
+{"ts": "2026-11-12 05:16:38", "city": "Aktobe", "id": "610611", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 05:16:40", "city": "Maianga", "id": "2239888", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 05:17:27", "city": "General Santos", "id": "1713022", "status": 200, "endpoint": "maps.mail.ru", "bytes": 82105, "saved": 20147, "pois": 412, "sec": 21.8}
+{"ts": "2026-11-12 05:17:44", "city": "Hargeysa", "id": "57289", "status": 200, "endpoint": "maps.mail.ru", "bytes": 65070, "saved": 19479, "pois": 398, "sec": 15.1}
+{"ts": "2026-11-12 05:19:33", "city": "Namp'o", "id": "1873757", "status": 0, "error": "maps.mail.ru: HTTP 504"}
+{"ts": "2026-11-12 05:22:28", "city": "Cotonou", "id": "2394819", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 05:22:32", "city": "Nam GJinh", "id": "1573517", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 05:22:36", "city": "Paramaribo", "id": "3383330", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-12 05:25:58", "city": "Kitwe", "id": "911148", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 05:27:03", "city": "Korhogo", "id": "2286304", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 05:27:55", "city": "Mawlamyine", "id": "1308465", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-12 05:29:59", "city": "Golfe", "id": "2591953", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 05:30:03", "city": "Calumbo", "id": "2242906", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 05:33:30", "city": "Manizales", "id": "3675443", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 05:34:43", "city": "Buon Ma Thuot", "id": "1586896", "status": 200, "endpoint": "maps.mail.ru", "bytes": 61035, "saved": 16668, "pois": 353, "sec": 21.3}
+{"ts": "2026-11-12 05:35:48", "city": "Frankfurt am Main", "id": "2925533", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 05:37:53", "city": "Tel Aviv", "id": "293397", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 05:37:56", "city": "Sham Shui Po", "id": "1818953", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 05:41:10", "city": "Zagazig", "id": "359493", "status": 200, "endpoint": "overpass.kumi.systems", "bytes": 11562, "saved": 3283, "pois": 66, "sec": 106.9}
+{"ts": "2026-11-12 05:43:24", "city": "Vinnytsya", "id": "689558", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 05:43:51", "city": "Matadi", "id": "2313002", "status": 200, "endpoint": "maps.mail.ru", "bytes": 15774, "saved": 5009, "pois": 100, "sec": 25.0}
+{"ts": "2026-11-12 05:44:10", "city": "Comilla", "id": "1185186", "status": 200, "endpoint": "maps.mail.ru", "bytes": 44973, "saved": 13529, "pois": 262, "sec": 17.0}
+{"ts": "2026-11-12 05:44:37", "city": "Bunia", "id": "217695", "status": 200, "endpoint": "maps.mail.ru", "bytes": 105324, "saved": 19966, "pois": 379, "sec": 20.7}
+{"ts": "2026-11-12 05:44:55", "city": "Saurimo", "id": "145531", "status": 200, "endpoint": "maps.mail.ru", "bytes": 50376, "saved": 27289, "pois": 603, "sec": 16.1}
+{"ts": "2026-11-12 05:45:17", "city": "Thuan An", "id": "12382296", "status": 200, "endpoint": "maps.mail.ru", "bytes": 171749, "saved": 40833, "pois": 829, "sec": 20.2}
+{"ts": "2026-11-12 05:47:33", "city": "Manchester", "id": "2643123", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 05:47:38", "city": "Leeds", "id": "2644688", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 05:47:41", "city": "Misratah", "id": "2214846", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-12 05:51:04", "city": "Cuito", "id": "3348078", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 05:51:06", "city": "Nansana", "id": "10943053", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 05:51:48", "city": "Bandar Abbas", "id": "141681", "status": 0, "error": "maps.mail.ru: HTTP 504"}
+{"ts": "2026-11-12 05:51:53", "city": "Mohammadpur", "id": "1194041", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-12 05:51:56", "city": "Quelimane", "id": "1028434", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-12 05:51:59", "city": "Thu GJuc", "id": "1565019", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-12 05:54:34", "city": "Sikasso", "id": "2451185", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 05:54:37", "city": "Bimbo", "id": "2388873", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 05:56:44", "city": "Carrefour", "id": "6201369", "status": 0, "error": "maps.mail.ru: HTTP 504"}
+{"ts": "2026-11-12 05:57:12", "city": "Bydgoszcz", "id": "3102014", "status": 200, "endpoint": "maps.mail.ru", "bytes": 433921, "saved": 104241, "pois": 2194, "sec": 25.7}
+{"ts": "2026-11-12 05:58:20", "city": "Pucallpa", "id": "3693345", "status": 200, "endpoint": "maps.mail.ru", "bytes": 82590, "saved": 26108, "pois": 554, "sec": 20.7}
+{"ts": "2026-11-12 05:58:45", "city": "Al Khusus", "id": "360890", "status": 200, "endpoint": "maps.mail.ru", "bytes": 204945, "saved": 59536, "pois": 1247, "sec": 18.5}
+{"ts": "2026-11-12 05:59:11", "city": "Nantes", "id": "2990969", "status": 200, "endpoint": "maps.mail.ru", "bytes": 2450211, "saved": 310718, "pois": 6472, "sec": 24.3}
+{"ts": "2026-11-12 06:02:20", "city": "Uige", "id": "2236568", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 06:02:53", "city": "Varna", "id": "726050", "status": 200, "endpoint": "maps.mail.ru", "bytes": 368010, "saved": 84567, "pois": 1790, "sec": 30.8}
+{"ts": "2026-11-12 06:03:08", "city": "Taoyuan", "id": "6696918", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 06:03:26", "city": "Vereeniging", "id": "944385", "status": 200, "endpoint": "maps.mail.ru", "bytes": 14458, "saved": 4157, "pois": 88, "sec": 16.2}
+{"ts": "2026-11-12 06:03:55", "city": "The Hague", "id": "2747373", "status": 200, "endpoint": "maps.mail.ru", "bytes": 2035928, "saved": 321345, "pois": 6758, "sec": 26.5}
+{"ts": "2026-11-12 06:04:24", "city": "Al-Kut", "id": "99131", "status": 200, "endpoint": "maps.mail.ru", "bytes": 28789, "saved": 8930, "pois": 185, "sec": 27.5}
+{"ts": "2026-11-12 06:04:42", "city": "Maroua", "id": "2228373", "status": 200, "endpoint": "maps.mail.ru", "bytes": 52824, "saved": 17678, "pois": 347, "sec": 16.0}
+{"ts": "2026-11-12 06:06:31", "city": "Seeb", "id": "288967", "status": 200, "endpoint": "overpass.kumi.systems", "bytes": 133836, "saved": 38230, "pois": 788, "sec": 94.0}
+{"ts": "2026-11-12 06:06:50", "city": "Saint-Denis", "id": "935264", "status": 200, "endpoint": "maps.mail.ru", "bytes": 281108, "saved": 49443, "pois": 1023, "sec": 17.1}
+{"ts": "2026-11-12 06:11:01", "city": "Tabora", "id": "149658", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 06:11:07", "city": "Kira", "id": "231165", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 06:11:10", "city": "Nazret", "id": "330186", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-12 06:11:13", "city": "Armenia", "id": "3689560", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-12 06:14:00", "city": "Hsinchu", "id": "1675151", "status": 200, "endpoint": "overpass.kumi.systems", "bytes": 765157, "saved": 169718, "pois": 3400, "sec": 88.6}
+{"ts": "2026-11-12 06:17:58", "city": "Ciudad del Este", "id": "3439101", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 06:18:26", "city": "Solwezi", "id": "897045", "status": 200, "endpoint": "maps.mail.ru", "bytes": 11895, "saved": 4532, "pois": 96, "sec": 22.7}
+{"ts": "2026-11-12 06:19:33", "city": "Valladolid", "id": "3106672", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 06:21:23", "city": "Warder", "id": "326282", "status": 200, "endpoint": "overpass.kumi.systems", "bytes": 1164, "saved": 362, "pois": 7, "sec": 106.7}
+{"ts": "2026-11-12 06:23:28", "city": "Dili", "id": "1645457", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 06:23:30", "city": "Merida", "id": "3632308", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 06:23:47", "city": "Fergana", "id": "1514019", "status": 0, "error": "maps.mail.ru: HTTP 504"}
+{"ts": "2026-11-12 06:24:14", "city": "Bialystok", "id": "776069", "status": 200, "endpoint": "maps.mail.ru", "bytes": 654959, "saved": 81731, "pois": 1661, "sec": 24.9}
+{"ts": "2026-11-12 06:25:05", "city": "Machala", "id": "3654533", "status": 200, "endpoint": "maps.mail.ru", "bytes": 72981, "saved": 17527, "pois": 360, "sec": 49.4}
+{"ts": "2026-11-12 06:27:39", "city": "Buenaventura", "id": "3688452", "status": 0, "error": "overpass.kumi.systems: 返回 0 条"}
+{"ts": "2026-11-12 06:32:32", "city": "Minya", "id": "360686", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 06:32:51", "city": "Al Kharj", "id": "109353", "status": 200, "endpoint": "maps.mail.ru", "bytes": 27791, "saved": 10504, "pois": 198, "sec": 17.0}
+{"ts": "2026-11-12 06:34:12", "city": "Chernihiv", "id": "710735", "status": 200, "endpoint": "maps.mail.ru", "bytes": 183987, "saved": 28835, "pois": 608, "sec": 25.4}
+{"ts": "2026-11-12 06:37:02", "city": "Ica", "id": "3938527", "status": 200, "endpoint": "overpass.kumi.systems", "bytes": 188942, "saved": 65220, "pois": 1413, "sec": 111.8}
+{"ts": "2026-11-12 06:41:05", "city": "London", "id": "6058560", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 06:42:07", "city": "Lichinga", "id": "1043893", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 06:42:11", "city": "Bogura", "id": "1337233", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-12 06:42:15", "city": "Tai Po", "id": "1818673", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-12 06:44:36", "city": "Jalalabad", "id": "1139715", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 06:44:38", "city": "Deir ez-Zor", "id": "170794", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 06:48:07", "city": "Uvira", "id": "204405", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 06:49:23", "city": "Manaus", "id": "3663517", "status": 200, "endpoint": "maps.mail.ru", "bytes": 287025, "saved": 80811, "pois": 1677, "sec": 22.0}
+{"ts": "2026-11-12 06:49:49", "city": "Cairns", "id": "2172797", "status": 200, "endpoint": "maps.mail.ru", "bytes": 158774, "saved": 39181, "pois": 841, "sec": 24.0}
+{"ts": "2026-11-12 06:52:04", "city": "Wellington", "id": "2179537", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 06:52:09", "city": "Christchurch", "id": "2192362", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 06:52:12", "city": "Honolulu", "id": "5856195", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-12 06:54:55", "city": "Reykjavik", "id": "3413829", "status": 200, "endpoint": "overpass.kumi.systems", "bytes": 489814, "saved": 92798, "pois": 1926, "sec": 80.9}
+{"ts": "2026-11-12 06:56:43", "city": "Copenhagen", "id": "2618425", "status": 200, "endpoint": "overpass.kumi.systems", "bytes": 2476020, "saved": 457891, "pois": 9824, "sec": 105.7}
+{"ts": "2026-11-12 06:57:16", "city": "Stockholm", "id": "2673730", "status": 200, "endpoint": "maps.mail.ru", "bytes": 2896233, "saved": 534139, "pois": 11274, "sec": 30.2}
+{"ts": "2026-11-12 07:01:35", "city": "Kinshasa", "id": "2314302", "status": 0, "error": "overpass.kumi.systems: HTTP 504"}
+{"ts": "2026-11-12 07:04:25", "city": "Moscow", "id": "524901", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 07:04:28", "city": "Dhaka", "id": "1185241", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 07:07:55", "city": "London", "id": "2643743", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 07:08:33", "city": "Jakarta", "id": "1642911", "status": 200, "endpoint": "maps.mail.ru", "bytes": 4733261, "saved": 731629, "pois": 14467, "sec": 35.6}
+{"ts": "2026-11-12 07:08:48", "city": "Tehran", "id": "112931", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 07:09:07", "city": "Tianjin", "id": "1792947", "status": 200, "endpoint": "maps.mail.ru", "bytes": 271869, "saved": 83780, "pois": 1821, "sec": 17.7}
+{"ts": "2026-11-12 07:10:25", "city": "Wuhan", "id": "1791247", "status": 200, "endpoint": "maps.mail.ru", "bytes": 430038, "saved": 120207, "pois": 2577, "sec": 21.1}
+{"ts": "2026-11-12 07:10:51", "city": "Lahore", "id": "1172451", "status": 200, "endpoint": "maps.mail.ru", "bytes": 662267, "saved": 190891, "pois": 3930, "sec": 24.1}
+{"ts": "2026-11-12 07:11:21", "city": "Mumbai", "id": "1275339", "status": 200, "endpoint": "maps.mail.ru", "bytes": 1305296, "saved": 321124, "pois": 6707, "sec": 27.8}
+{"ts": "2026-11-12 07:11:52", "city": "Karachi", "id": "1174872", "status": 200, "endpoint": "maps.mail.ru", "bytes": 2764471, "saved": 597831, "pois": 12155, "sec": 25.4}
+{"ts": "2026-11-12 07:12:22", "city": "Bamako", "id": "2460596", "status": 200, "endpoint": "maps.mail.ru", "bytes": 307870, "saved": 105277, "pois": 2127, "sec": 24.3}
+{"ts": "2026-11-12 07:14:38", "city": "Riyadh", "id": "108410", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 07:14:43", "city": "Addis Ababa", "id": "344979", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 07:17:47", "city": "Ankara", "id": "323786", "status": 200, "endpoint": "overpass.kumi.systems", "bytes": 937386, "saved": 263398, "pois": 5603, "sec": 98.7}
+{"ts": "2026-11-12 07:19:49", "city": "Hyderabad", "id": "1269843", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 07:21:12", "city": "Pyongyang", "id": "1871859", "status": 200, "endpoint": "maps.mail.ru", "bytes": 375549, "saved": 90362, "pois": 1864, "sec": 28.2}
+{"ts": "2026-11-12 07:21:48", "city": "Abidjan", "id": "2293538", "status": 200, "endpoint": "maps.mail.ru", "bytes": 1656241, "saved": 546432, "pois": 11569, "sec": 34.5}
+{"ts": "2026-11-12 07:25:51", "city": "Kyiv", "id": "703448", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 07:25:55", "city": "Dar es Salaam", "id": "160263", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 07:25:59", "city": "Abuja", "id": "2352778", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-12 07:29:21", "city": "Saint Petersburg", "id": "498817", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 07:29:24", "city": "Kano", "id": "2335204", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 07:30:12", "city": "Ouagadougou", "id": "2357048", "status": 200, "endpoint": "maps.mail.ru", "bytes": 282883, "saved": 96615, "pois": 1986, "sec": 18.0}
+{"ts": "2026-11-12 07:30:36", "city": "Peshawar", "id": "1168197", "status": 200, "endpoint": "maps.mail.ru", "bytes": 114555, "saved": 37069, "pois": 759, "sec": 22.3}
+{"ts": "2026-11-12 07:30:51", "city": "Baku", "id": "587084", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-12 07:33:13", "city": "Chennai", "id": "1264527", "status": 200, "endpoint": "overpass.kumi.systems", "bytes": 608073, "saved": 167090, "pois": 3423, "sec": 92.2}
+{"ts": "2026-11-12 07:37:11", "city": "Kolkata", "id": "1275004", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 07:37:52", "city": "Sanaa", "id": "71137", "status": 200, "endpoint": "maps.mail.ru", "bytes": 416881, "saved": 105288, "pois": 2168, "sec": 39.5}
+{"ts": "2026-11-12 07:38:15", "city": "Conakry", "id": "2422465", "status": 200, "endpoint": "maps.mail.ru", "bytes": 121524, "saved": 40472, "pois": 814, "sec": 20.5}
+{"ts": "2026-11-12 07:38:37", "city": "Ibadan", "id": "2339354", "status": 200, "endpoint": "maps.mail.ru", "bytes": 38133, "saved": 10956, "pois": 215, "sec": 19.5}
+{"ts": "2026-11-12 07:39:14", "city": "Minsk", "id": "625144", "status": 200, "endpoint": "maps.mail.ru", "bytes": 2875775, "saved": 424825, "pois": 8953, "sec": 35.1}
+{"ts": "2026-11-12 07:39:40", "city": "Harare", "id": "890299", "status": 200, "endpoint": "maps.mail.ru", "bytes": 141171, "saved": 33931, "pois": 689, "sec": 24.6}
+{"ts": "2026-11-12 07:39:59", "city": "Kigali", "id": "202061", "status": 200, "endpoint": "maps.mail.ru", "bytes": 179530, "saved": 44744, "pois": 919, "sec": 16.3}
+{"ts": "2026-11-12 07:40:21", "city": "Bangui", "id": "2389853", "status": 200, "endpoint": "maps.mail.ru", "bytes": 26073, "saved": 8613, "pois": 175, "sec": 20.7}
+{"ts": "2026-11-12 07:40:45", "city": "Daejeon", "id": "1835235", "status": 200, "endpoint": "maps.mail.ru", "bytes": 548203, "saved": 144291, "pois": 3032, "sec": 21.9}
+{"ts": "2026-11-12 07:42:02", "city": "Tabriz", "id": "113646", "status": 200, "endpoint": "maps.mail.ru", "bytes": 340025, "saved": 97615, "pois": 2055, "sec": 21.7}
+{"ts": "2026-11-12 07:42:27", "city": "Gwangju", "id": "1841811", "status": 200, "endpoint": "maps.mail.ru", "bytes": 894817, "saved": 190473, "pois": 4022, "sec": 18.8}
+{"ts": "2026-11-12 07:42:57", "city": "Tunis", "id": "2464470", "status": 200, "endpoint": "maps.mail.ru", "bytes": 479285, "saved": 131526, "pois": 2813, "sec": 28.0}
+{"ts": "2026-11-12 07:44:19", "city": "Douala", "id": "2232593", "status": 200, "endpoint": "maps.mail.ru", "bytes": 121175, "saved": 34042, "pois": 716, "sec": 19.6}
+{"ts": "2026-11-12 07:50:06", "city": "Indore", "id": "1269743", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 07:50:32", "city": "Tangerang", "id": "1625084", "status": 200, "endpoint": "maps.mail.ru", "bytes": 776366, "saved": 162880, "pois": 3240, "sec": 23.9}
+{"ts": "2026-11-12 07:50:53", "city": "Hyderabad", "id": "1176734", "status": 200, "endpoint": "maps.mail.ru", "bytes": 234471, "saved": 41147, "pois": 831, "sec": 15.2}
+{"ts": "2026-11-12 07:52:17", "city": "Bien Hoa", "id": "1587923", "status": 200, "endpoint": "maps.mail.ru", "bytes": 272672, "saved": 68571, "pois": 1380, "sec": 20.3}
+{"ts": "2026-11-12 07:52:41", "city": "Nizhniy Novgorod", "id": "520555", "status": 200, "endpoint": "maps.mail.ru", "bytes": 1010488, "saved": 174651, "pois": 3724, "sec": 22.4}
+{"ts": "2026-11-12 07:53:07", "city": "Djibouti", "id": "223817", "status": 200, "endpoint": "maps.mail.ru", "bytes": 76242, "saved": 16191, "pois": 335, "sec": 19.9}
+{"ts": "2026-11-12 07:55:09", "city": "Dammam", "id": "110336", "status": 200, "endpoint": "overpass.kumi.systems", "bytes": 126788, "saved": 35082, "pois": 725, "sec": 106.8}
+{"ts": "2026-11-12 07:58:50", "city": "Thane", "id": "1254661", "status": 200, "endpoint": "overpass.kumi.systems", "bytes": 576245, "saved": 158239, "pois": 3351, "sec": 93.7}
+{"ts": "2026-11-12 08:00:53", "city": "Callao", "id": "3946083", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 08:01:08", "city": "Iztapalapa", "id": "3526683", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 08:01:28", "city": "Karbala", "id": "94824", "status": 200, "endpoint": "maps.mail.ru", "bytes": 744130, "saved": 202385, "pois": 4246, "sec": 17.7}
+{"ts": "2026-11-12 08:01:50", "city": "Vadodara", "id": "1253573", "status": 200, "endpoint": "maps.mail.ru", "bytes": 46495, "saved": 13760, "pois": 285, "sec": 20.1}
+{"ts": "2026-11-12 08:02:05", "city": "Mombasa", "id": "186301", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-12 08:02:09", "city": "Srinagar", "id": "1255634", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-12 08:04:24", "city": "Barranquilla", "id": "3689147", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 08:04:26", "city": "Islamabad", "id": "1176615", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 08:07:55", "city": "Shymkent", "id": "1518980", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 08:08:19", "city": "Matola", "id": "1039854", "status": 200, "endpoint": "maps.mail.ru", "bytes": 343466, "saved": 75833, "pois": 1605, "sec": 22.1}
+{"ts": "2026-11-12 08:08:39", "city": "Samara", "id": "499099", "status": 200, "endpoint": "maps.mail.ru", "bytes": 500462, "saved": 98983, "pois": 2149, "sec": 17.9}
+{"ts": "2026-11-12 08:09:19", "city": "Caloocan", "id": "1720151", "status": 200, "endpoint": "maps.mail.ru", "bytes": 3317589, "saved": 660492, "pois": 13717, "sec": 38.5}
+{"ts": "2026-11-12 08:09:46", "city": "Monterrey", "id": "3995465", "status": 200, "endpoint": "maps.mail.ru", "bytes": 738338, "saved": 247328, "pois": 5460, "sec": 24.4}
+{"ts": "2026-11-12 08:10:16", "city": "Ilorin", "id": "2337639", "status": 200, "endpoint": "maps.mail.ru", "bytes": 42773, "saved": 12471, "pois": 256, "sec": 24.4}
+{"ts": "2026-11-12 08:11:39", "city": "Leon de los Aldama", "id": "3998655", "status": 200, "endpoint": "maps.mail.ru", "bytes": 120753, "saved": 35132, "pois": 762, "sec": 24.8}
+{"ts": "2026-11-12 08:11:58", "city": "San Salvador", "id": "3583361", "status": 200, "endpoint": "maps.mail.ru", "bytes": 505326, "saved": 117889, "pois": 2484, "sec": 16.9}
+{"ts": "2026-11-12 08:15:02", "city": "Voronezh", "id": "472045", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 08:15:52", "city": "Sokoto", "id": "2322911", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 08:15:55", "city": "Onitsha", "id": "2326016", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-12 08:20:12", "city": "Rangpur", "id": "1185188", "status": 200, "endpoint": "overpass.kumi.systems", "bytes": 77467, "saved": 24082, "pois": 457, "sec": 101.4}
+{"ts": "2026-11-12 08:20:55", "city": "Kawasaki", "id": "1859642", "status": 200, "endpoint": "maps.mail.ru", "bytes": 4160265, "saved": 921847, "pois": 19200, "sec": 37.3}
+{"ts": "2026-11-12 08:22:22", "city": "Edmonton", "id": "5946768", "status": 200, "endpoint": "maps.mail.ru", "bytes": 1112183, "saved": 225732, "pois": 4744, "sec": 21.5}
+{"ts": "2026-11-12 08:22:48", "city": "Dnipro", "id": "709930", "status": 200, "endpoint": "maps.mail.ru", "bytes": 437008, "saved": 85299, "pois": 1838, "sec": 19.3}
+{"ts": "2026-11-12 08:23:25", "city": "South Tangerang", "id": "8581443", "status": 200, "endpoint": "maps.mail.ru", "bytes": 1959206, "saved": 349598, "pois": 7038, "sec": 35.3}
+{"ts": "2026-11-12 08:23:51", "city": "Enugu", "id": "2343279", "status": 200, "endpoint": "maps.mail.ru", "bytes": 75103, "saved": 17192, "pois": 356, "sec": 24.3}
+{"ts": "2026-11-12 08:24:13", "city": "Padang", "id": "1633419", "status": 200, "endpoint": "maps.mail.ru", "bytes": 189793, "saved": 39918, "pois": 785, "sec": 19.5}
+{"ts": "2026-11-12 08:29:13", "city": "Taiz", "id": "70225", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 08:29:18", "city": "Eskisehir", "id": "315202", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 08:29:21", "city": "Sao Luis", "id": "3388368", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-12 08:34:38", "city": "Bannu", "id": "1183460", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 08:34:53", "city": "Bobo-Dioulasso", "id": "2362344", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 08:35:46", "city": "Blantyre", "id": "931755", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-12 08:35:49", "city": "Donetsk", "id": "709717", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-12 08:38:09", "city": "Juba", "id": "373303", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 08:38:11", "city": "Krasnodar", "id": "542420", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 08:41:30", "city": "Guarulhos", "id": "3461786", "status": 0, "error": "overpass.kumi.systems: HTTP 504"}
+{"ts": "2026-11-12 08:43:33", "city": "Natal", "id": "3394023", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 08:44:34", "city": "Abobo", "id": "2293521", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-12 08:44:37", "city": "Bissau", "id": "2374775", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-12 08:45:04", "city": "Sulaymaniyah", "id": "98463", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 08:49:19", "city": "Samarinda", "id": "1629001", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 08:49:44", "city": "Bratislava", "id": "3060972", "status": 200, "endpoint": "maps.mail.ru", "bytes": 2160664, "saved": 367765, "pois": 7627, "sec": 23.0}
+{"ts": "2026-11-12 08:50:07", "city": "Saratov", "id": "498677", "status": 200, "endpoint": "maps.mail.ru", "bytes": 362232, "saved": 83542, "pois": 1738, "sec": 20.5}
+{"ts": "2026-11-12 08:51:25", "city": "Takeo", "id": "1821940", "status": 200, "endpoint": "maps.mail.ru", "bytes": 17543, "saved": 5855, "pois": 114, "sec": 24.7}
+{"ts": "2026-11-12 08:54:08", "city": "Cochabamba", "id": "3919968", "status": 200, "endpoint": "overpass.kumi.systems", "bytes": 995259, "saved": 179140, "pois": 3772, "sec": 98.9}
+{"ts": "2026-11-12 08:57:10", "city": "Jepara", "id": "1642548", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 08:57:14", "city": "Tirana", "id": "3183875", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 09:02:42", "city": "San Juan", "id": "4568127", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 09:03:44", "city": "Joao Pessoa", "id": "3397277", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 09:04:15", "city": "Bukavu", "id": "217831", "status": 200, "endpoint": "maps.mail.ru", "bytes": 40388, "saved": 11202, "pois": 224, "sec": 29.2}
+{"ts": "2026-11-12 09:05:37", "city": "Panama City", "id": "3703443", "status": 200, "endpoint": "maps.mail.ru", "bytes": 565946, "saved": 140403, "pois": 2974, "sec": 18.9}
+{"ts": "2026-11-12 09:05:53", "city": "Barcelona", "id": "3648559", "status": 200, "endpoint": "maps.mail.ru", "bytes": 275476, "saved": 67376, "pois": 1439, "sec": 14.7}
+{"ts": "2026-11-12 09:09:53", "city": "Sadr City", "id": "7802746", "status": 200, "endpoint": "overpass.kumi.systems", "bytes": 782997, "saved": 200798, "pois": 4122, "sec": 107.0}
+{"ts": "2026-11-12 09:10:22", "city": "Oran", "id": "2485926", "status": 200, "endpoint": "maps.mail.ru", "bytes": 155477, "saved": 39031, "pois": 799, "sec": 27.5}
+{"ts": "2026-11-12 09:15:57", "city": "San Pedro Sula", "id": "3601782", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 09:16:49", "city": "Niigata", "id": "1855431", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 09:16:52", "city": "Aba", "id": "2353151", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-12 09:16:55", "city": "Windhoek", "id": "3352136", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-12 09:16:58", "city": "Birmingham", "id": "2655603", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-12 09:19:28", "city": "Ibb", "id": "74477", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 09:19:30", "city": "Malatya", "id": "304922", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 09:21:49", "city": "Winnipeg", "id": "6183235", "status": 0, "error": "maps.mail.ru: HTTP 504"}
+{"ts": "2026-11-12 09:22:17", "city": "Malingao", "id": "1978681", "status": 200, "endpoint": "maps.mail.ru", "bytes": 18148, "saved": 5655, "pois": 115, "sec": 26.0}
+{"ts": "2026-11-12 09:26:12", "city": "Andijon", "id": "1514588", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 09:26:33", "city": "Touba", "id": "2244322", "status": 200, "endpoint": "maps.mail.ru", "bytes": 37841, "saved": 14120, "pois": 267, "sec": 19.9}
+{"ts": "2026-11-12 09:27:01", "city": "Buraydah", "id": "107304", "status": 200, "endpoint": "maps.mail.ru", "bytes": 184775, "saved": 68683, "pois": 1246, "sec": 21.7}
+{"ts": "2026-11-12 09:28:07", "city": "Kumamoto", "id": "1858421", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 09:30:32", "city": "Muzaffarabad", "id": "1169607", "status": 200, "endpoint": "overpass.kumi.systems", "bytes": 12378, "saved": 2926, "pois": 58, "sec": 91.0}
+{"ts": "2026-11-12 09:32:35", "city": "Maseru", "id": "932505", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 09:32:37", "city": "Zaporizhzhya", "id": "687700", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 09:33:15", "city": "Gqeberha", "id": "964420", "status": 200, "endpoint": "maps.mail.ru", "bytes": 228195, "saved": 53134, "pois": 1112, "sec": 16.0}
+{"ts": "2026-11-12 09:33:38", "city": "Santo Domingo Este", "id": "8601412", "status": 200, "endpoint": "maps.mail.ru", "bytes": 527879, "saved": 134216, "pois": 2836, "sec": 20.7}
+{"ts": "2026-11-12 09:33:58", "city": "Suez", "id": "359796", "status": 200, "endpoint": "maps.mail.ru", "bytes": 18657, "saved": 5508, "pois": 116, "sec": 18.2}
+{"ts": "2026-11-12 09:35:20", "city": "Bauchi", "id": "2347470", "status": 200, "endpoint": "maps.mail.ru", "bytes": 30199, "saved": 7946, "pois": 148, "sec": 23.3}
+{"ts": "2026-11-12 09:38:25", "city": "Beira", "id": "1052373", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 09:38:30", "city": "Zaria", "id": "2317765", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 09:38:33", "city": "Sargodha", "id": "1166000", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-12 09:41:56", "city": "Cuenca", "id": "3658666", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 09:41:58", "city": "Barnaul", "id": "1510853", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 09:43:31", "city": "Rosario", "id": "3838583", "status": 0, "error": "maps.mail.ru: HTTP 504"}
+{"ts": "2026-11-12 09:43:56", "city": "Ndola", "id": "901344", "status": 200, "endpoint": "maps.mail.ru", "bytes": 11911, "saved": 3534, "pois": 71, "sec": 23.4}
+{"ts": "2026-11-12 09:44:15", "city": "Al Mansurah", "id": "360761", "status": 200, "endpoint": "maps.mail.ru", "bytes": 38081, "saved": 11696, "pois": 245, "sec": 16.5}
+{"ts": "2026-11-12 09:47:25", "city": "Kermanshah", "id": "128226", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 09:48:27", "city": "Chiclayo", "id": "3698350", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 09:48:30", "city": "Antipolo", "id": "1730501", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-12 09:50:55", "city": "Gothenburg", "id": "2711537", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 09:50:58", "city": "Huambo", "id": "3348313", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 09:54:26", "city": "Samarkand", "id": "1216265", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 09:55:00", "city": "Rasht", "id": "118743", "status": 200, "endpoint": "maps.mail.ru", "bytes": 131178, "saved": 33877, "pois": 720, "sec": 27.9}
+{"ts": "2026-11-12 09:56:05", "city": "Soshanguve", "id": "954013", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 09:58:10", "city": "Bucaramanga", "id": "3688465", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 09:58:14", "city": "Malacca", "id": "1734759", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 10:01:41", "city": "Nha Trang", "id": "1572151", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 10:03:01", "city": "Kerman", "id": "128234", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 10:03:06", "city": "Viana", "id": "2236500", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-12 10:03:09", "city": "Tanta", "id": "347497", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-12 10:05:13", "city": "Herat", "id": "1140026", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 10:05:16", "city": "Arifwala", "id": "1184370", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 10:08:44", "city": "Irbid", "id": "248946", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 10:09:16", "city": "Kota Bharu", "id": "1736376", "status": 200, "endpoint": "maps.mail.ru", "bytes": 194732, "saved": 54401, "pois": 1094, "sec": 25.6}
+{"ts": "2026-11-12 10:10:20", "city": "Pasig City", "id": "7290466", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 10:12:28", "city": "Bloemfontein", "id": "1018725", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 10:12:31", "city": "Santiago de Cuba", "id": "3536729", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 10:15:58", "city": "Kampung Baru Subang", "id": "1771023", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 10:16:26", "city": "Zahedan", "id": "1159301", "status": 200, "endpoint": "maps.mail.ru", "bytes": 65487, "saved": 18947, "pois": 399, "sec": 26.2}
+{"ts": "2026-11-12 10:17:20", "city": "Kuantan", "id": "1735227", "status": 200, "endpoint": "maps.mail.ru", "bytes": 161664, "saved": 45908, "pois": 958, "sec": 51.3}
+{"ts": "2026-11-12 10:17:50", "city": "Bremen", "id": "2944388", "status": 200, "endpoint": "maps.mail.ru", "bytes": 1766228, "saved": 259830, "pois": 5351, "sec": 23.7}
+{"ts": "2026-11-12 10:18:20", "city": "Oujda", "id": "2540483", "status": 200, "endpoint": "maps.mail.ru", "bytes": 108437, "saved": 29519, "pois": 611, "sec": 24.5}
+{"ts": "2026-11-12 10:22:32", "city": "Ar Raqqah", "id": "172955", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 10:22:36", "city": "Porto-Novo", "id": "2392087", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 10:22:40", "city": "Hamadan", "id": "132144", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-12 10:26:02", "city": "Cankaya", "id": "6955677", "status": 200, "endpoint": "overpass.kumi.systems", "bytes": 704338, "saved": 190795, "pois": 4055, "sec": 120.0}
+{"ts": "2026-11-12 10:28:05", "city": "Kolwezi", "id": "922773", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 10:28:29", "city": "Van", "id": "298117", "status": 200, "endpoint": "maps.mail.ru", "bytes": 104194, "saved": 29647, "pois": 571, "sec": 22.4}
+{"ts": "2026-11-12 10:29:36", "city": "Mazar-e Sharif", "id": "1133616", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 10:31:42", "city": "Kandahar", "id": "1138336", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 10:31:46", "city": "Salta", "id": "3838233", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 10:35:13", "city": "Al Fayyum", "id": "361320", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 10:35:45", "city": "Tuen Mun", "id": "1818446", "status": 200, "endpoint": "maps.mail.ru", "bytes": 440697, "saved": 67678, "pois": 1399, "sec": 29.6}
+{"ts": "2026-11-12 10:36:13", "city": "Aktobe", "id": "610611", "status": 200, "endpoint": "maps.mail.ru", "bytes": 222372, "saved": 45282, "pois": 961, "sec": 21.6}
+{"ts": "2026-11-12 10:37:17", "city": "Maianga", "id": "2239888", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 10:39:22", "city": "Namp'o", "id": "1873757", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 10:39:26", "city": "Cotonou", "id": "2394819", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 10:42:53", "city": "Nam GJinh", "id": "1573517", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 10:43:56", "city": "Paramaribo", "id": "3383330", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 10:44:00", "city": "Kitwe", "id": "911148", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-12 10:44:04", "city": "Korhogo", "id": "2286304", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-12 10:44:08", "city": "Mawlamyine", "id": "1308465", "status": 0, "error": "overpass.osm.ch: 返回 0 条"}
+{"ts": "2026-11-12 10:46:23", "city": "Golfe", "id": "2591953", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 10:46:26", "city": "Calumbo", "id": "2242906", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 10:49:54", "city": "Manizales", "id": "3675443", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 10:50:39", "city": "Frankfurt am Main", "id": "2925533", "status": 200, "endpoint": "maps.mail.ru", "bytes": 3560592, "saved": 493744, "pois": 10219, "sec": 42.6}
+{"ts": "2026-11-12 10:51:11", "city": "Tel Aviv", "id": "293397", "status": 200, "endpoint": "maps.mail.ru", "bytes": 1178636, "saved": 252928, "pois": 5417, "sec": 30.0}
+{"ts": "2026-11-12 10:51:26", "city": "Sham Shui Po", "id": "1818953", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 10:51:59", "city": "Vinnytsya", "id": "689558", "status": 200, "endpoint": "maps.mail.ru", "bytes": 327559, "saved": 60287, "pois": 1285, "sec": 31.6}
+{"ts": "2026-11-12 10:52:43", "city": "Manchester", "id": "2643123", "status": 200, "endpoint": "maps.mail.ru", "bytes": 5658630, "saved": 2451764, "pois": 53350, "sec": 42.1}
+{"ts": "2026-11-12 10:53:21", "city": "Leeds", "id": "2644688", "status": 200, "endpoint": "maps.mail.ru", "bytes": 1257774, "saved": 195182, "pois": 4170, "sec": 35.6}
+{"ts": "2026-11-12 10:53:49", "city": "Misratah", "id": "2214846", "status": 200, "endpoint": "maps.mail.ru", "bytes": 182302, "saved": 45252, "pois": 918, "sec": 25.9}
+{"ts": "2026-11-12 10:54:21", "city": "Cuito", "id": "3348078", "status": 200, "endpoint": "maps.mail.ru", "bytes": 3083, "saved": 1009, "pois": 21, "sec": 30.2}
+{"ts": "2026-11-12 10:54:56", "city": "Nansana", "id": "10943053", "status": 200, "endpoint": "maps.mail.ru", "bytes": 329803, "saved": 94087, "pois": 1914, "sec": 32.8}
+{"ts": "2026-11-12 10:55:24", "city": "Bandar Abbas", "id": "141681", "status": 200, "endpoint": "maps.mail.ru", "bytes": 88039, "saved": 22019, "pois": 468, "sec": 25.5}
+{"ts": "2026-11-12 10:56:54", "city": "Mohammadpur", "id": "1194041", "status": 200, "endpoint": "maps.mail.ru", "bytes": 1968, "saved": 532, "pois": 10, "sec": 27.6}
+{"ts": "2026-11-12 10:57:25", "city": "Quelimane", "id": "1028434", "status": 200, "endpoint": "maps.mail.ru", "bytes": 11326, "saved": 4497, "pois": 97, "sec": 28.3}
+{"ts": "2026-11-12 10:58:43", "city": "Thu GJuc", "id": "1565019", "status": 200, "endpoint": "maps.mail.ru", "bytes": 399534, "saved": 91062, "pois": 1887, "sec": 25.5}
+{"ts": "2026-11-12 10:59:12", "city": "Sikasso", "id": "2451185", "status": 200, "endpoint": "maps.mail.ru", "bytes": 12358, "saved": 4403, "pois": 91, "sec": 26.2}
+{"ts": "2026-11-12 11:01:50", "city": "Bimbo", "id": "2388873", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 11:02:45", "city": "Carrefour", "id": "6201369", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 11:05:06", "city": "Uige", "id": "2236568", "status": 200, "endpoint": "overpass.kumi.systems", "bytes": 1162, "saved": 311, "pois": 6, "sec": 105.9}
+{"ts": "2026-11-12 11:07:09", "city": "Taoyuan", "id": "6696918", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 11:07:35", "city": "Tabora", "id": "149658", "status": 200, "endpoint": "maps.mail.ru", "bytes": 32052, "saved": 10662, "pois": 220, "sec": 24.1}
+{"ts": "2026-11-12 11:07:58", "city": "Kira", "id": "231165", "status": 200, "endpoint": "maps.mail.ru", "bytes": 239278, "saved": 70739, "pois": 1436, "sec": 17.1}
+{"ts": "2026-11-12 11:08:13", "city": "Nazret", "id": "330186", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 11:08:38", "city": "Armenia", "id": "3689560", "status": 200, "endpoint": "maps.mail.ru", "bytes": 361161, "saved": 149565, "pois": 3263, "sec": 23.1}
+{"ts": "2026-11-12 11:09:34", "city": "Ciudad del Este", "id": "3439101", "status": 200, "endpoint": "maps.mail.ru", "bytes": 254405, "saved": 63348, "pois": 1360, "sec": 53.7}
+{"ts": "2026-11-12 11:10:02", "city": "Valladolid", "id": "3106672", "status": 200, "endpoint": "maps.mail.ru", "bytes": 606237, "saved": 156550, "pois": 3360, "sec": 25.9}
+{"ts": "2026-11-12 11:10:24", "city": "Dili", "id": "1645457", "status": 200, "endpoint": "maps.mail.ru", "bytes": 107381, "saved": 25486, "pois": 521, "sec": 16.2}
+{"ts": "2026-11-12 11:10:49", "city": "Merida", "id": "3632308", "status": 200, "endpoint": "maps.mail.ru", "bytes": 89722, "saved": 26148, "pois": 563, "sec": 22.2}
+{"ts": "2026-11-12 11:11:11", "city": "Fergana", "id": "1514019", "status": 200, "endpoint": "maps.mail.ru", "bytes": 67023, "saved": 15683, "pois": 330, "sec": 20.6}
+{"ts": "2026-11-12 11:14:18", "city": "Buenaventura", "id": "3688452", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 11:14:23", "city": "Minya", "id": "360686", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 11:17:32", "city": "London", "id": "6058560", "status": 200, "endpoint": "overpass.kumi.systems", "bytes": 321264, "saved": 66318, "pois": 1396, "sec": 103.9}
+{"ts": "2026-11-12 11:19:36", "city": "Lichinga", "id": "1043893", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
+{"ts": "2026-11-12 11:20:07", "city": "Bogura", "id": "1337233", "status": 200, "endpoint": "maps.mail.ru", "bytes": 103537, "saved": 31932, "pois": 612, "sec": 25.0}
+{"ts": "2026-11-12 11:20:22", "city": "Tai Po", "id": "1818673", "status": 0, "error": "overpass-api.de: URLError"}
+{"ts": "2026-11-12 11:20:53", "city": "Jalalabad", "id": "1139715", "status": 200, "endpoint": "maps.mail.ru", "bytes": 27845, "saved": 10581, "pois": 209, "sec": 28.8}
+{"ts": "2026-11-12 11:21:19", "city": "Deir ez-Zor", "id": "170794", "status": 200, "endpoint": "maps.mail.ru", "bytes": 20554, "saved": 6064, "pois": 120, "sec": 23.5}
+{"ts": "2026-11-12 11:24:22", "city": "Uvira", "id": "204405", "status": 0, "error": "overpass.kumi.systems: TimeoutError"}
